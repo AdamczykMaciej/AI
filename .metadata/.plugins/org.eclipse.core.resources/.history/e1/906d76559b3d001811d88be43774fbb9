@@ -1,0 +1,528 @@
+import java.io.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+
+        //TRAINING
+        File dir = new File("training");
+        System.out.println("Name" + dir.getName());
+        BufferedReader br;
+        Scanner scan;
+
+        final int DIM = 26;
+        Perceptron perceptronPL = new Perceptron(DIM);
+        Perceptron perceptronEN = new Perceptron(DIM){
+            @Override
+            public void update_weight(double alpha, LanguageSample ls) {
+                double y = output(ls); //our output
+                int d; //DESIRED output
+                if(ls.getClassName().equalsIgnoreCase("en")) //here the name of a class
+                    d=1;
+                else
+                    d=0;
+
+                //WEIGHTS
+                
+                for(int i=0; i<weight.length; i++) {
+        			weight[i]+=(d-y)*alpha*ls.parameters[i];
+        		}
+//        		double length=0;
+//        		
+//        		for(int i=0; i<ls.parameters.length; i++) {
+//        			length+=Math.pow(ls.parameters[i], 2);
+//        		}
+//        		length=Math.sqrt(length);
+//        		
+//        		for(int i=0; i<weight.length; i++) {
+//        			weight[i]/=length;
+//        		}
+//        		
+//            	weight[0]+=(d-y)*alpha*ls.getA()*y*(1-y);
+//        		weight[1]+=(d-y)*alpha*ls.getB()*y*(1-y);
+//        		weight[2]+=(d-y)*alpha*ls.getC()*y*(1-y);
+//        		weight[3]+=(d-y)*alpha*ls.getD()*y*(1-y);
+//                weight[4]+=(d-y)*alpha*ls.getE()*y*(1-y);
+//                weight[5]+=(d-y)*alpha*ls.getF()*y*(1-y);
+//                weight[6]+=(d-y)*alpha*ls.getG()*y*(1-y);
+//                weight[7]+=(d-y)*alpha*ls.getH()*y*(1-y);
+//                weight[8]+=(d-y)*alpha*ls.getI()*y*(1-y);
+//                weight[9]+=(d-y)*alpha*ls.getJ()*y*(1-y);
+//                weight[10]+=(d-y)*alpha*ls.getK()*y*(1-y);
+//                weight[11]+=(d-y)*alpha*ls.getL()*y*(1-y);
+//                weight[12]+=(d-y)*alpha*ls.getM()*y*(1-y);
+//                weight[13]+=(d-y)*alpha*ls.getN()*y*(1-y);
+//                weight[14]+=(d-y)*alpha*ls.getO()*y*(1-y);
+//                weight[15]+=(d-y)*alpha*ls.getP()*y*(1-y);
+//                weight[16]+=(d-y)*alpha*ls.getQ()*y*(1-y);
+//                weight[17]+=(d-y)*alpha*ls.getR()*y*(1-y);
+//                weight[18]+=(d-y)*alpha*ls.getS()*y*(1-y);
+//                weight[19]+=(d-y)*alpha*ls.getT()*y*(1-y);
+//                weight[20]+=(d-y)*alpha*ls.getU()*y*(1-y);
+//                weight[21]+=(d-y)*alpha*ls.getV()*y*(1-y);
+//                weight[22]+=(d-y)*alpha*ls.getW()*y*(1-y);
+//                weight[23]+=(d-y)*alpha*ls.getX()*y*(1-y);
+//                weight[24]+=(d-y)*alpha*ls.getY()*y*(1-y);
+//                weight[25]+=(d-y)*alpha*ls.getZ()*y*(1-y);
+                theta+=(d-y)*alpha*(-1)*y*(1-y); 
+                
+//                double distance=0;
+//                for(int i=0; i<weight.length; i++) {
+//                	distance+=Math.pow(weight[i], 2);
+//                }
+//                distance+=Math.pow(theta, 2);
+//                distance=Math.sqrt(distance);
+//                
+//                weight[0]/=distance;
+//                weight[1]/=distance;
+//                weight[2]/=distance;
+//                weight[3]/=distance;
+//                weight[4]/=distance;
+//                weight[5]/=distance;
+//                weight[6]/=distance;
+//                weight[7]/=distance;
+//                weight[8]/=distance;
+//                weight[9]/=distance;
+//                weight[10]/=distance;
+//                weight[11]/=distance;
+//                weight[12]/=distance;
+//                weight[13]/=distance;
+//                weight[14]/=distance;
+//                weight[15]/=distance;
+//                weight[16]/=distance;
+//                weight[17]/=distance;
+//                weight[18]/=distance;
+//                weight[19]/=distance;
+//                weight[20]/=distance;
+//                weight[21]/=distance;
+//                weight[22]/=distance;
+//                weight[23]/=distance;
+//                weight[24]/=distance;
+//                weight[25]/=distance;
+//                theta/=distance;
+//                //THETA
+            }
+        };
+        Perceptron perceptronFR = new Perceptron(DIM){
+            @Override
+            public void update_weight(double alpha, LanguageSample ls) {
+
+                double y = output(ls); //our output
+                int d; //DESIRED output
+                if (ls.getClassName().equals("fr")) //here the name of a class
+                    d = 1;
+                else
+                    d = 0;
+
+                //WEIGHTS
+                
+                for(int i=0; i<weight.length; i++) {
+        			weight[i]+=(d-y)*alpha*ls.parameters[i];
+        		}
+//        		double length=0;
+//        		
+//        		for(int i=0; i<ls.parameters.length; i++) {
+//        			length+=Math.pow(ls.parameters[0], 2);
+//        		}
+//        		length=Math.sqrt(length);
+//        		
+//        		for(int i=0; i<weight.length; i++) {
+//        			weight[i]/=length;
+//        		}
+        		
+//            	weight[0]+=(d-y)*alpha*ls.getA()*y*(1-y);
+//        		weight[1]+=(d-y)*alpha*ls.getB()*y*(1-y);
+//        		weight[2]+=(d-y)*alpha*ls.getC()*y*(1-y);
+//        		weight[3]+=(d-y)*alpha*ls.getD()*y*(1-y);
+//                weight[4]+=(d-y)*alpha*ls.getE()*y*(1-y);
+//                weight[5]+=(d-y)*alpha*ls.getF()*y*(1-y);
+//                weight[6]+=(d-y)*alpha*ls.getG()*y*(1-y);
+//                weight[7]+=(d-y)*alpha*ls.getH()*y*(1-y);
+//                weight[8]+=(d-y)*alpha*ls.getI()*y*(1-y);
+//                weight[9]+=(d-y)*alpha*ls.getJ()*y*(1-y);
+//                weight[10]+=(d-y)*alpha*ls.getK()*y*(1-y);
+//                weight[11]+=(d-y)*alpha*ls.getL()*y*(1-y);
+//                weight[12]+=(d-y)*alpha*ls.getM()*y*(1-y);
+//                weight[13]+=(d-y)*alpha*ls.getN()*y*(1-y);
+//                weight[14]+=(d-y)*alpha*ls.getO()*y*(1-y);
+//                weight[15]+=(d-y)*alpha*ls.getP()*y*(1-y);
+//                weight[16]+=(d-y)*alpha*ls.getQ()*y*(1-y);
+//                weight[17]+=(d-y)*alpha*ls.getR()*y*(1-y);
+//                weight[18]+=(d-y)*alpha*ls.getS()*y*(1-y);
+//                weight[19]+=(d-y)*alpha*ls.getT()*y*(1-y);
+//                weight[20]+=(d-y)*alpha*ls.getU()*y*(1-y);
+//                weight[21]+=(d-y)*alpha*ls.getV()*y*(1-y);
+//                weight[22]+=(d-y)*alpha*ls.getW()*y*(1-y);
+//                weight[23]+=(d-y)*alpha*ls.getX()*y*(1-y);
+//                weight[24]+=(d-y)*alpha*ls.getY()*y*(1-y);
+//                weight[25]+=(d-y)*alpha*ls.getZ()*y*(1-y);
+              //theta 
+                
+                theta+=(d-y)*alpha*(-1)*y*(1-y); 
+                
+//                double distance=0;
+//                for(int i=0; i<weight.length; i++) {
+//                	distance+=Math.pow(weight[i], 2);
+//                }
+//                distance+=Math.pow(theta, 2);
+//                distance=Math.sqrt(distance);
+//                
+//                weight[0]/=distance;
+//                weight[1]/=distance;
+//                weight[2]/=distance;
+//                weight[3]/=distance;
+//                weight[4]/=distance;
+//                weight[5]/=distance;
+//                weight[6]/=distance;
+//                weight[7]/=distance;
+//                weight[8]/=distance;
+//                weight[9]/=distance;
+//                weight[10]/=distance;
+//                weight[11]/=distance;
+//                weight[12]/=distance;
+//                weight[13]/=distance;
+//                weight[14]/=distance;
+//                weight[15]/=distance;
+//                weight[16]/=distance;
+//                weight[17]/=distance;
+//                weight[18]/=distance;
+//                weight[19]/=distance;
+//                weight[20]/=distance;
+//                weight[21]/=distance;
+//                weight[22]/=distance;
+//                weight[23]/=distance;
+//                weight[24]/=distance;
+//                weight[25]/=distance;
+//                theta/=distance;
+                
+            }
+        };
+
+        //TRAINING
+        List<LanguageSample> trainingList = new ArrayList<>();
+        for (final File langDir : dir.listFiles()) {
+            for (final File f : langDir.listFiles()) {
+                br = new BufferedReader(new FileReader(f));
+                String curToken;
+                scan = new Scanner(new FileInputStream(f), "UTF-8"); // it is important to specify the encoding (by default it is not UTF-8), we should look at the encoding of input files
+
+                LanguageSample ls = new LanguageSample();
+                ls.setClassName(langDir.getName()); // class names "pl", "en", "fr"
+                int count = 0; // the number of letters (only 26 ACII)
+                while (scan.hasNext()) {
+
+                    String[] token = scan.next().split("");
+                    for(int i =0; i<token.length; i++){
+                        char c=token[i].charAt(0);
+                        //System.out.println(c);
+                        if ( (c >= 65 &&  c <= 90)) { // ASCII, CHECKING TOKENS, uppercase, lowercase letters
+                            count++;
+//                            String letter = c + ""; // I want to use the EqualsIgnoreCase to decrease the number of ifs
+                            
+                            
+                            	ls.parameters[(int)c-'A']++;
+                            
+                            
+//                            if (letter.equalsIgnoreCase("a")) {
+//                                ls.setA(ls.getA() + 1);
+//                            } else if (letter.equalsIgnoreCase("b")) {
+//                                ls.setB(ls.getB() + 1);
+//                            } else if (letter.equalsIgnoreCase("c")) {
+//                                ls.setC(ls.getC() + 1);
+//                            } else if (letter.equalsIgnoreCase("d")) {
+//                                ls.setD(ls.getD() + 1);
+//                            } else if (letter.equalsIgnoreCase("e")) {
+//                                ls.setE(ls.getE() + 1);
+//                            } else if (letter.equalsIgnoreCase("f")) {
+//                                ls.setF(ls.getF() + 1);
+//                            } else if (letter.equalsIgnoreCase("g")) {
+//                                ls.setG(ls.getG() + 1);
+//                            } else if (letter.equalsIgnoreCase("h")) {
+//                                ls.setH(ls.getH() + 1);
+//                            } else if (letter.equalsIgnoreCase("i")) {
+//                                ls.setI(ls.getI() + 1);
+//                            } else if (letter.equalsIgnoreCase("j")) {
+//                                ls.setJ(ls.getJ() + 1);
+//                            } else if (letter.equalsIgnoreCase("k")) {
+//                                ls.setK(ls.getK() + 1);
+//                            } else if (letter.equalsIgnoreCase("l")) {
+//                                ls.setL(ls.getL() + 1);
+//                            } else if (letter.equalsIgnoreCase("m")) {
+//                                ls.setM(ls.getM() + 1);
+//                            } else if (letter.equalsIgnoreCase("n")) {
+//                                ls.setN(ls.getN() + 1);
+//                            } else if (letter.equalsIgnoreCase("o")) {
+//                                ls.setO(ls.getO() + 1);
+//                            } else if (letter.equalsIgnoreCase("p")) {
+//                                ls.setP(ls.getP() + 1);
+//                            } else if (letter.equalsIgnoreCase("q")) {
+//                                ls.setQ(ls.getQ() + 1);
+//                            } else if (letter.equalsIgnoreCase("r")) {
+//                                ls.setR(ls.getR() + 1);
+//                            } else if (letter.equalsIgnoreCase("s")) {
+//                                ls.setS(ls.getS() + 1);
+//                            } else if (letter.equalsIgnoreCase("t")) {
+//                                ls.setT(ls.getT() + 1);
+//                            } else if (letter.equalsIgnoreCase("u")) {
+//                                ls.setU(ls.getU() + 1);
+//                            } else if (letter.equalsIgnoreCase("v")) {
+//                                ls.setV(ls.getV() + 1);
+//                            } else if (letter.equalsIgnoreCase("w")) {
+//                                ls.setW(ls.getW() + 1);
+//                            } else if (letter.equalsIgnoreCase("x")) {
+//                                ls.setX(ls.getX() + 1);
+//                            } else if (letter.equalsIgnoreCase("y")) {
+//                                ls.setY(ls.getY() + 1);
+//                            } else if (letter.equalsIgnoreCase("z")) {
+//                                ls.setZ(ls.getZ() + 1);
+//                            }
+                        }
+                        else if(c >= 97 &&  c <= 122) {
+                        	count++;
+                        	ls.parameters[(int)c-'a']++;
+                            
+                        }
+                    }
+                }
+                
+                for(int i=0; i<ls.parameters.length; i++) {
+                	ls.parameters[i]/=(double)count;
+                }
+//                ls.setA(ls.getA() / (double)count);
+//                ls.setB(ls.getB() / (double)count);
+//                ls.setC(ls.getC() / (double)count);
+//                ls.setD(ls.getD() / (double)count);
+//                ls.setE(ls.getE() / (double)count);
+//                ls.setF(ls.getF() / (double)count);
+//                ls.setG(ls.getG() / (double)count);
+//                ls.setH(ls.getH() / (double)count);
+//                ls.setI(ls.getI() / (double)count);
+//                ls.setJ(ls.getJ() / (double)count);
+//                ls.setK(ls.getK() / (double)count);
+//                ls.setL(ls.getL() / (double)count);
+//                ls.setM(ls.getM() / (double)count);
+//                ls.setN(ls.getN() / (double)count);
+//                ls.setO(ls.getO() / (double)count);
+//                ls.setP(ls.getP() / (double)count);
+//                ls.setQ(ls.getQ() / (double)count);
+//                ls.setR(ls.getR() / (double)count);
+//                ls.setS(ls.getS() / (double)count);
+//                ls.setT(ls.getT() / (double)count);
+//                ls.setU(ls.getU() / (double)count);
+//                ls.setV(ls.getV() / (double)count);
+//                ls.setW(ls.getW() / (double)count);
+//                ls.setX(ls.getX() / (double)count);
+//                ls.setY(ls.getY() / (double)count);
+//                ls.setZ(ls.getZ() / (double)count);
+
+                trainingList.add(ls);
+            }
+        }
+        scan = new Scanner(System.in);
+        System.out.println("\nThe learning parameter (alpha): ");
+        double alpha = scan.nextDouble(); // the learning parameter
+        System.out.println("The maximum error: ");
+        double mxError = scan.nextDouble(); // the number of iterations
+
+        double errorPL=0, errorEN=0, errorFR=0; // to be able to calculate the error, look further
+        do{ //PL, calculating the error and comparing with mx
+            errorPL=0;
+            double dPL; //desired output, for calculating the Error
+            double yPL; // output
+            for (int j = 0; j < trainingList.size(); j++) {
+                
+                if (trainingList.get(j).getClassName().equalsIgnoreCase("pl")) //here the name of a class
+                    dPL = 1;
+                else
+                    dPL = 0;
+
+                perceptronPL.update_weight(alpha, trainingList.get(j));
+                yPL = perceptronPL.output(trainingList.get(j));
+                errorPL += (0.5 * (Math.pow((dPL - yPL), 2)));
+                //System.out.println(dPL-yPL);
+                if(j==1);
+               
+            }
+            System.out.println("PL "+errorPL+"mxerro"+mxError+"y ");
+        }  while(errorPL>mxError);
+        do{ //EN
+            errorEN=0;
+            for (int j = 0; j < trainingList.size(); j++) {
+                double dEN; //desired output, for calculating the Error
+                double yEN; // output
+                if (trainingList.get(j).getClassName().equalsIgnoreCase("en")) //here the name of a class
+                    dEN = 1;
+                else
+                    dEN = 0;
+
+                perceptronEN.update_weight(alpha, trainingList.get(j));
+                yEN = perceptronEN.output(trainingList.get(j));
+                errorEN += 0.5 * (Math.pow((dEN - yEN), 2));
+                
+            }
+            System.out.println("EN "+errorEN);
+        }  while(errorEN>mxError);
+        do{ //FR
+            errorFR=0;
+            for (int j = 0; j < trainingList.size(); j++) {
+                double dFR; //desired output, for calculating the Error
+                double yFR; // output
+                if (trainingList.get(j).getClassName().equalsIgnoreCase("fr")) //here the name of a class
+                    dFR = 1;
+                else
+                    dFR = 0;
+
+                perceptronFR.update_weight(alpha, trainingList.get(j));
+                yFR = perceptronFR.output(trainingList.get(j));
+                errorFR += 0.5 * (Math.pow((dFR - yFR), 2));
+               
+            }
+            System.out.println("FR error: "+errorFR);
+        }  while(errorFR>mxError);
+
+        // TEST
+        File testDir = new File("test");
+
+        List<LanguageSample> testList = new ArrayList<LanguageSample>();
+        //create LanguageSamples
+        for(final File f : testDir.listFiles()){
+
+            int count=0; // the number of letters (only 26 ACII)
+            LanguageSample ls = new LanguageSample();
+            ls.setClassName(f.getName());
+            scan = new Scanner(f);
+            while (scan.hasNext()) {
+
+                String[] token = scan.next().split("");
+                for(int i =0; i<token.length; i++){
+                    char c=token[i].charAt(0);
+                    //System.out.println(c);
+                    if ( (c >= 65 &&  c <= 90) || (c >= 97 &&  c <= 122)) { // ASCII, CHECKING TOKENS, uppercase, lowercase letters
+                        count++;
+//                        String letter = c + ""; // I want to use the EqualsIgnoreCase to decrease the number of ifs
+                        
+                        for(int k=0; k<ls.parameters.length; k++) {
+                        	ls.parameters[(int)c-'a']++;
+                        }
+                        
+//                        if (letter.equalsIgnoreCase("a")) {
+//                            ls.setA(ls.getA() + 1);
+//                        } else if (letter.equalsIgnoreCase("b")) {
+//                            ls.setB(ls.getB() + 1);
+//                        } else if (letter.equalsIgnoreCase("c")) {
+//                            ls.setC(ls.getC() + 1);
+//                        } else if (letter.equalsIgnoreCase("d")) {
+//                            ls.setD(ls.getD() + 1);
+//                        } else if (letter.equalsIgnoreCase("e")) {
+//                            ls.setE(ls.getE() + 1);
+//                        } else if (letter.equalsIgnoreCase("f")) {
+//                            ls.setF(ls.getF() + 1);
+//                        } else if (letter.equalsIgnoreCase("g")) {
+//                            ls.setG(ls.getG() + 1);
+//                        } else if (letter.equalsIgnoreCase("h")) {
+//                            ls.setH(ls.getH() + 1);
+//                        } else if (letter.equalsIgnoreCase("i")) {
+//                            ls.setI(ls.getI() + 1);
+//                        } else if (letter.equalsIgnoreCase("j")) {
+//                            ls.setJ(ls.getJ() + 1);
+//                        } else if (letter.equalsIgnoreCase("k")) {
+//                            ls.setK(ls.getK() + 1);
+//                        } else if (letter.equalsIgnoreCase("l")) {
+//                            ls.setL(ls.getL() + 1);
+//                        } else if (letter.equalsIgnoreCase("m")) {
+//                            ls.setM(ls.getM() + 1);
+//                        } else if (letter.equalsIgnoreCase("n")) {
+//                            ls.setN(ls.getN() + 1);
+//                        } else if (letter.equalsIgnoreCase("o")) {
+//                            ls.setO(ls.getO() + 1);
+//                        } else if (letter.equalsIgnoreCase("p")) {
+//                            ls.setP(ls.getP() + 1);
+//                        } else if (letter.equalsIgnoreCase("q")) {
+//                            ls.setQ(ls.getQ() + 1);
+//                        } else if (letter.equalsIgnoreCase("r")) {
+//                            ls.setR(ls.getR() + 1);
+//                        } else if (letter.equalsIgnoreCase("s")) {
+//                            ls.setS(ls.getS() + 1);
+//                        } else if (letter.equalsIgnoreCase("t")) {
+//                            ls.setT(ls.getT() + 1);
+//                        } else if (letter.equalsIgnoreCase("u")) {
+//                            ls.setU(ls.getU() + 1);
+//                        } else if (letter.equalsIgnoreCase("v")) {
+//                            ls.setV(ls.getV() + 1);
+//                        } else if (letter.equalsIgnoreCase("w")) {
+//                            ls.setW(ls.getW() + 1);
+//                        } else if (letter.equalsIgnoreCase("x")) {
+//                            ls.setX(ls.getX() + 1);
+//                        } else if (letter.equalsIgnoreCase("y")) {
+//                            ls.setY(ls.getY() + 1);
+//                        } else if (letter.equalsIgnoreCase("z")) {
+//                            ls.setZ(ls.getZ() + 1);
+//                        }
+                    }
+                }
+            }
+            
+            for(int i=0; i<ls.parameters.length; i++) {
+            	ls.parameters[i]/=(double)count;
+            }
+            
+//            ls.setA(ls.getA() / count);
+//            ls.setB(ls.getB() / count);
+//            ls.setC(ls.getC() / count);
+//            ls.setD(ls.getD() / count);
+//            ls.setE(ls.getE() / count);
+//            ls.setF(ls.getF() / count);
+//            ls.setG(ls.getG() / count);
+//            ls.setH(ls.getH() / count);
+//            ls.setI(ls.getI() / count);
+//            ls.setJ(ls.getJ() / count);
+//            ls.setK(ls.getK() / count);
+//            ls.setL(ls.getL() / count);
+//            ls.setM(ls.getM() / count);
+//            ls.setN(ls.getN() / count);
+//            ls.setO(ls.getO() / count);
+//            ls.setP(ls.getP() / count);
+//            ls.setQ(ls.getQ() / count);
+//            ls.setR(ls.getR() / count);
+//            ls.setS(ls.getS() / count);
+//            ls.setT(ls.getT() / count);
+//            ls.setU(ls.getU() / count);
+//            ls.setV(ls.getV() / count);
+//            ls.setW(ls.getW() / count);
+//            ls.setX(ls.getX() / count);
+//            ls.setY(ls.getY() / count);
+//            ls.setZ(ls.getZ() / count);
+
+            testList.add(ls);
+        }
+        System.out.println("-------------------TEST--------------------");
+        //int good = 0;
+        for (int i=0; i<testList.size(); i++) {
+            double outA = perceptronPL.output(testList.get(i)); // pl
+            double outB = perceptronEN.output(testList.get(i)); // enr
+            double outC = perceptronFR.output(testList.get(i)); // fr
+            //int outputC = perceptronA.output(x);
+            System.out.println("1"+outA);
+            System.out.println("2"+outB);
+            System.out.println("3"+outC);
+
+            double mx = outA;
+            String myOutput="PL";
+            if(outB>mx) {
+                mx = outB;
+                myOutput="EN";
+            }
+            else if(outC>mx){
+                mx = outC;
+                myOutput="FR";
+            }
+
+            String theirOutput = testList.get(i).getClassName();
+            System.out.println("My output: " + myOutput + " Their output: " + theirOutput);
+//            if (myOutput.equals(theirOutput))
+//                good++;
+        }
+    }
+}

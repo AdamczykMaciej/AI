@@ -1,0 +1,78 @@
+//import org.apache.commons.codec.language.bm.Lang;
+
+import java.util.concurrent.ThreadLocalRandom;
+
+public class Perceptron {
+	public double theta=0;
+	public double[] weight;
+	
+	public Perceptron(int weightDim) {
+		weight = new double[weightDim];
+		// we can change weights and experiment
+        System.out.println("Weights:");
+		for(int i=0; i<weightDim; i++){
+		    weight[i]=ThreadLocalRandom.current().nextDouble(-2, 2);
+		    System.out.print(weight[i]+", ");
+        }
+
+	}
+	
+	public void update_weight(double alpha, LanguageSample ls) {
+
+            double y = output(ls); //our output
+            int d; //DESIRED output
+            if (ls.getClassName().equalsIgnoreCase("pl")) //here the name of a class
+                d = 1;
+            else
+                d = 0;
+
+            //WEIGHTS
+            
+            for(int i=0; i<weight.length; i++) {
+    			weight[i]+=(d-y)*alpha*ls.parameters[i]*y*(1-y);
+    		}
+            //normalization
+    		double length=0;
+    		
+    		for(int i=0; i<ls.parameters.length; i++) {
+    			length+=Math.pow(ls.parameters[i], 2);
+    		}
+    		length=Math.sqrt(length);
+    		
+//    		for(int i=0; i<weight.length; i++) {
+//    			System.out.println(weight[i]);
+//    			if(length!=0)
+//    			  weight[i]/=(double)length;
+//    		}
+            
+	}
+	
+	public double output(LanguageSample ls) {
+		
+		double dot_product=0;
+		
+		for(int i=0; i<weight.length; i++) {
+			dot_product+=ls.parameters[i]*weight[i];
+		}
+
+        double NET = dot_product-theta;
+        //sigmoid
+        double output =(1/(1+Math.exp(-NET))) ;
+        return output;
+
+//		if(dot_product>=theta) {
+//			return 1;
+//		}
+//		return 0;
+	}
+	
+	public String outputClass(LanguageSample ls) {
+		double output = output(ls);
+		if(output==1)
+			return "Iris-virginica";
+		return
+				"Iris-versicolor";
+	}
+}
+
+

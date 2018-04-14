@@ -1,0 +1,118 @@
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.LinkedHashMap;
+import java.util.Map;
+import java.util.Set;
+import java.util.stream.Collectors;
+
+class Iris {
+	public double a, b, c, d;
+	public String name;
+
+	public Iris(double e, double f, double g, double h, String name) {
+		this.a = e;
+		this.b = f;
+		this.c = g;
+		this.d = h;
+		this.name = name;
+	}
+}
+
+public class Main {
+
+	public static String KKNtrain(int k, Set<Iris> set, Iris iris) {
+
+		Map<String, Double> map = new HashMap<String, Double>();
+		int id = 0;
+		for (Iterator<Iris> it = set.iterator(); it.hasNext();) {
+
+			Iris ir = it.next();
+			double euclDistance = Math.sqrt(Math.pow((iris.a - ir.a), 2) + Math.pow((iris.b - ir.b), 2)
+					+ Math.pow((iris.c - ir.c), 2) + Math.pow((iris.d - ir.d), 2));
+			map.put(ir.name + " " + id, euclDistance);
+			id++;
+		}
+		//System.out.println(map.size());
+		Map<String, Double> sorted = map.entrySet().stream()
+				.sorted(Map.Entry.comparingByValue(Comparator.naturalOrder())).collect(Collectors.toMap(
+						Map.Entry::getKey, Map.Entry::getValue, (oldValue, newValue) -> oldValue, LinkedHashMap::new));
+
+		Map<String, Integer> classifier = new HashMap<String, Integer>();
+		for (Map.Entry<String, Double> entry : sorted.entrySet()) {
+			if (k > 0) {
+				String[] s = entry.getKey().split(" ");
+				if (classifier.containsKey(s[0])) {
+					Integer newcount = classifier.get(s[0]);
+					newcount++;
+					classifier.put(s[0], newcount);
+				} else
+					classifier.put(s[0], 1);
+			}
+			k--;
+		}
+		int mx = 0;
+		String decision = "";
+		for (Map.Entry<String, Integer> entry : classifier.entrySet()) {
+			if (entry.getValue() > mx) {
+				mx = entry.getValue();
+				decision = entry.getKey();
+			}
+		}
+
+		return decision;
+
+	}
+
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new FileReader("iris/train.txt"));
+
+		Set<Iris> training_set = new HashSet<Iris>(); // training set
+		String curLine;
+		while ((curLine = br.readLine()) != null) {
+			String[] ar = curLine.split(",");
+			training_set.add(new Iris(Double.parseDouble(ar[0]), Double.parseDouble(ar[1]), Double.parseDouble(ar[2]),
+					Double.parseDouble(ar[3]), ar[4]));
+		}
+		br.close();
+
+		// System.out.println(KKNtrain(5, set, new Iris(6.9,3.1,4.9,1.5,"")));
+
+		br = new BufferedReader(new FileReader("iris/test.txt"));
+
+		Set<Iris> test_set = new HashSet<Iris>(); // test set
+		ArrayList<String> anticipatedResults = new ArrayList<String>();
+		while ((curLine = br.readLine()) != null) {
+			String[] ar = curLine.split(",");
+			test_set.add(new Iris(Double.parseDouble(ar[0]), Double.parseDouble(ar[1]), Double.parseDouble(ar[2]),
+					Double.parseDouble(ar[3]), ""));
+			// should add if statement. if added then add here as well, cause hashset = no duplicates
+			anticipatedResults.add(ar[4]);
+		}
+		
+		int i = 0, count=0;
+
+		for (Iterator<Iris> it = test_set.iterator(); it.hasNext();) {
+
+			Iris iris = it.next();
+			String myResult = KKNtrain(120, training_set, iris);
+			String theirResult = anticipatedResults.get(i);
+			System.out.println(
+					"My result: " + myResult + " Their result: " + theirResult);
+			if(myResult.equals(theirResult))
+				count++;
+			i++;
+
+		}
+		System.out.println(count/(double)anticipatedResults.size());
+
+		br.close();
+
+	}
+}
