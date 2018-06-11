@@ -1,0 +1,155 @@
+Chronologie[modifier | modifier le code]
+Années 1970[modifier | modifier le code]
+Janvier 1975 : Développement de Altair 8800 par la Micro Instrumentation and Telemetry Systems.
+
+Paul Allen
+Février 1975 : Gates et Allen complètent leur interpréteur Altair Basic pour l’Altair 8800.
+Juillet 1975 : commercialisation de l’Altair Basic.
+Novembre 1975 : Gates propose à Allen d’utiliser le nom « Micro-soft » pour désigner leur association.
+Novembre 1976 : dépôt de la marque de commerce Microsoft par Bill Gates et Paul Allen.
+Février 1977 : Microsoft commercialise un compilateur FORTRAN.
+Novembre 1977 : fin de l’association entre Microsoft et MITS après une longue dispute judiciaire.
+Avril 1978 : Microsoft commercialise un compilateur COBOL-80.
+Novembre 1978 : Microsoft fonde un premier comptoir de vente outremer à Tokyo, au Japon.
+Décembre 1978 : le chiffre d’affaires de la société dépasse le million de dollars.
+Juin 1979 : Microsoft annonce un BASIC pour le microprocesseur 8086.
+Novembre 1979 : Microsoft s’installe en Europe par le biais d’un représentant belge : Vector Microsoft.
+Années 1980[modifier | modifier le code]
+Avril 1980 : Microsoft commercialise la SoftCard Z-80, une carte s’enfichant dans un Apple II
+Juin 1980 : le gestionnaire Steve Ballmer rejoint Bill Gates et Paul Allen.
+Août 1980 : Microsoft annonce le XENIX OS, un système d’exploitation portable pour microprocesseurs 16 bits.
+Août 1981 : IBM introduit son PC, avec IBM PC-DOS 1.0.
+Juin 1982 : Microsoft change de logo. Le nouveau logo reçoit un nom : le « Blibbet ».
+Mai 1983 : Microsoft commercialise sa première souris. Contrairement à la souris d’Apple, elle possède deux boutons.
+3 mai 1983 : Microsoft ouvre ses bureaux aux Ulis en France, avec à sa tête Bernard Vergnes61.
+Septembre 1983 : première version du logiciel de traitement de texte Word pour MS-DOS, l’ancêtre d’Office.
+Novembre 1983 : Microsoft dévoile Microsoft Windows. Il s’agit d'un complément à MS-DOS, qui permet d’ouvrir plusieurs programmes en même temps et de passer de l’un à l’autre par le biais de fenêtres.
+Novembre 1985 : Microsoft présente l’interface graphique Windows 1.0 pour son système MS-DOS. À cause du peu de fonctionnalités apportées, c’est un échec.
+13 mars 1986 : Microsoft entre en Bourse. Le cours de l’action débute à 21 $ et termine la journée à 28 $.
+Mars 1987 : nouveau logo Microsoft. Les employés protestent et lancent une campagne de sauvegarde du « Blibbet ». Le nouveau logo est tout de même adopté.
+Avril 1987 : commercialisation de MS OS/2, un nouveau système d’exploitation développé pour tirer parti des possibilités des microprocesseurs 286 et 386.
+Avril 1987 : commercialisation de Windows 2.0, tournant sur MS-DOS. Au nombre de nouveautés : nouvelle apparence, fenêtres se superposant.
+Juillet 1987 : Microsoft acquiert Forethought Inc., qui produit un logiciel de présentation nommé PowerPoint.
+Octobre 1987 : Microsoft commercialise Excel pour Windows. Il s’agit du premier produit tournant exclusivement sous Windows.
+Mars 1988 : Apple poursuit Microsoft en justice pour plagiat de « look and feel » (intuitivité) par Windows 2.0, qui lui, commence à séduire.
+Années 1990[modifier | modifier le code]
+Mai 1990 : Microsoft lance Windows 3.0 et c’est le succès : 10 millions d’exemplaires vendus en 2 ans.
+Juillet 1990 : Microsoft devient le premier éditeur de logiciel à dépasser le milliard de dollars de vente annuelle.
+Mars 1992 : premiers spots publicitaires destinés à la télévision. Ces spots vantent les mérites de Windows. Également : Microsoft et Fox Software (Foxpro) fusionnent.
+Avril 1992 : Microsoft commercialise Windows 3.1. Cette version présente plus de 100 améliorations par rapport à Windows 3.0 et connaît un succès sans précédent : plus d’un million de pré-commandes !
+Juin 1992 : le président américain George Bush décerne à Bill Gates la médaille nationale de la technologie pour réussite technologique et commerciale aux États-Unis.
+Octobre 1992 : commercialisation de Windows for Workgroups 3.1. Elle permet l’échange de courriels, des fichiers, des imprimantes et la gestion de réseaux.
+
+Steve Ballmer
+Novembre 1992 : commercialisation d’Access pour Windows.
+Mars 1993 : commercialisation de Encarta, la première encyclopédie destinée à un ordinateur. Également : commercialisation de MS-DOS 6.0.
+Avril 1993 : plus de 25 millions de personnes utilisent Windows à travers le monde.
+Mai 1993 : commercialisation du premier Windows NT. Microsoft s’attaque au monde de l’entreprise. Également : Commercialisation de la seconde souris Microsoft.
+Juillet 1993 : commercialisation de Windows for Workgroups 3.11.
+Décembre 1993 : le magazine Fortune décerne à Microsoft le titre de « compagnie la plus innovante ».
+Avril 1994 : Windows for Workgroups 3.11 devient le système d’exploitation le plus vendu. 300 000 copies ont été vendues à travers le monde.
+Juin 1994 : Microsoft acquiert la montréalaise Softimage Inc. pour 30 millions de dollars[réf. souhaitée].
+Septembre 1994 : Microsoft choisit le nom officiel de la prochaine version de Windows (dont le nom de code est Chicago) : Windows 95.
+Janvier 1995 : Bill Gates annonce Microsoft Office for Windows 95, qui regroupe traitement de texte, calendrier, carnet d’adresses, courriel, etc..
+Mars 1995 : Microsoft et DreamWorks SKG (Steven Spielberg) fondent DreamWorks Interactive (laquelle sera rachetée par Electronic Arts en 2000).
+Août 1995 : lancement de Windows 95. Un million de copies seront vendues quatre jours seulement après sa sortie.
+1996 : création de MSNBC, un partenariat entre Microsoft et la National Broadcast Corporation (NBC).
+Juillet 1996 : lancement de Windows NT 4.0 qui remplace Windows NT 3.11. Cette version est plus lourde que Windows 95 mais plus fiable.
+Août 1996 : lancement d’Internet Explorer 3.0, c’est le début de la fin pour Netscape.
+Août 1997 : le différend qui opposait Microsoft et Apple au sujet de la paternité (et de la propriété) de l’interface graphique.
+Mai 1998 : début du procès « anti-trust » contre Microsoft aux États-Unis.
+Juillet 1998 : commercialisation de Windows 98, considéré à l’époque comme une révision mineure de Windows 95.
+1999 : Commercialisation de Windows 98 Deuxième Édition.
+Années 2000[modifier | modifier le code]
+Janvier 2000 : Bill Gates cède sa place à Steve Ballmer à la tête de Microsoft.
+Février 2000 : commercialisation de Windows 2000, connu également sous le nom de Windows NT 5.0 disponible pour serveur et station de travail.
+Septembre 2000 : commercialisation en parallèle de Windows 2000 de Windows Me, uniquement pour les stations de travail.
+Août 2001 : commercialisation de Windows XP, qui est la réunification de Windows 2000 pour sa robustesse et des Windows 9x pour l’aspect utilisateur particulier, avec une interface simple d’utilisation.
+27 septembre 2001 : la société anonyme Softimage France, propriété de Microsoft depuis 1994, a été condamnée par le tribunal de commerce de Nanterre à trois millions de francs de dommages-intérêts.
+15 novembre 2001 : lancement de la Xbox, aux États-Unis. La politique de Microsoft était de la vendre à prix coûtant pour amorcer la pompe et de prendre son bénéfice uniquement sur les jeux.
+14 mars 2002 : commercialisation de la Xbox en Europe.
+Septembre 2002 : rachat de Rareware.
+2003 : sortie du SP1 de Windows XP.
+
+Console Xbox 360
+Avril 2003 : commercialisation de Windows Server 2003 ; développement dans les technologies mobiles avec Windows CE : PocketPC (assistants personnels), smartphone (téléphones mobiles), etc.
+Août 2004 : sortie du SP2 de Windows XP.
+9 mai 2005 : lancement mondial de Windows Mobile 5.0 destiné aux smartphones et PDA
+8 novembre 2005 : lancement mondial de SQL Serveur 2005 et Visual Studio 2005 au Carrousel du Louvre à Paris ; Microsoft introduit dans SQL Server 2005 la notion de miroir de base.
+2 décembre 2005 : sortie de la Xbox 360.
+30 novembre 2006 : disponibilité de Windows Vista, pour les entreprises.
+30 janvier 2007 : sortie de Windows Vista et d’Office 2007 pour les particuliers.
+Mai 2007 : nouvelle technologie des claviers de demain, exposé à la foire de Paris.
+Mars 2008 : sortie du SP1 de Windows Vista.
+Avril 2008 : sortie du SP3 de Windows XP.
+26 mai 2009 : sortie du SP2 de Windows Vista.
+Juin 2008 : Microsoft acquiert MobiComp pour son expertise en gestion et protection de données personnelles mobiles62.
+1er juin 2009 : lancement du nouveau moteur de recherche Bing63.
+15 juillet 2009 : ouverture de la réservation de Windows 7 sur le site Microsoft.fr : la boutique Microsoft Store est en dérangement devant le trop grand nombre de demandes.
+22 octobre 2009 : lancement du système d’exploitation Windows 764.
+18 novembre 2009 : mise à disposition gratuitement de la bêta d’Office 201065.
+Années 2010[modifier | modifier le code]
+15 juin 2010 : commercialisation d’Office 2010.
+21 octobre 2010 : sortie des téléphones sous Windows Phone 7 en Europe (8 novembre aux États-Unis).
+
+Microsoft Lumia 950 XL
+4 novembre 2010 : sortie de Kinect aux États-Unis et le 10 novembre en Europe.
+14 octobre 2011 : rachat de Skype, logiciel permettant aux utilisateurs de passer des appels téléphoniques via Internet, pour une somme de 8,5 milliards de dollars.
+23 août 2012 : Microsoft présente son nouveau logo avec ses nouvelles couleurs : Rouge pour Office, Vert pour Xbox, Bleu pour Windows et Jaune pour Bing.
+26 octobre 2012 : lancement de Windows 8.
+29 octobre 2012 : lancement d’Internet Explorer 10 sur les ordinateurs possédants Windows 8.
+8 avril 2013 : Ericsson rachète la filiale IPTV de Microsoft pour entre 100 et 250 millions de $66.
+23 août 2013 : Microsoft annonce que Steve Ballmer quittera son poste de PDG d'ici douze mois67.
+2 septembre 2013 : Microsoft annonce le rachat de l'activité téléphonie mobile de Nokia pour 5,44 milliards d'euros68.
+22 novembre 2013 : sortie de la Xbox One.
+4 février 2014 : Satya Nadella prend la place de Steve Ballmer comme PDG de Microsoft.
+Mai 2014 : acquisition de Capptain, spécialisée dans l'analyse des données d’usage des utilisateurs d’applications mobiles.
+Juillet 2014 : En juillet 2015, Microsoft annonce son retrait partiel du secteur de la publicité en ligne, au travers d'un partenariat avec AOL, acheté par Verizon69,70.
+17 juillet 2014 : Microsoft annonce la suppression de 18 000 emplois dont 12 500 dans la filiale de mobile de Nokia71.
+15 septembre 2014 : Acquisition de Mojang, l'éditeur du jeu vidéo Minecraft pour 2,5 milliards de dollars72.
+20 juillet 2015 : Microsoft acquiert l'entreprise israélienne de sécurité informatique Adallom pour 320 millions de dollars73.
+29 juillet 2015 : Lancement mondial du système d'exploitation « universel » Windows 10
+6 octobre 2015 : Rachat de Havok.
+26 octobre 2015 : Lancement du Surface Book74, premier ordinateur portable fabriqué par Microsoft.
+30 octobre 2015 : Lancement du Microsoft Store75, à New York sur la 5e Avenue.
+Mai 2016 : Microsoft annonce la vente pour 350 millions de dollars de ses activités dans les feature phone, c'est-à-dire les téléphones portables bas-de-gamme, à une filiale de Foxconn76 et annonce un plan de licenciement de 1850 postes dans sa filiale mobile77.
+13 juin 2016 : Rachat de LinkedIn pour 26 milliards de dollars78. C'est l'acquisition la plus importante dans l'histoire de Microsoftnote 1.
+Août 2016 : Rachat de la startup Genee spécialisée dans l'intelligence artificielle qui a conçu un assistant virtuel intelligent spécialisé dans la prise de rendez-vous81
+28 septembre 2016 : Google, Facebook, IBM, Microsoft et Amazon officialisent dans un communiqué commun la création du « Partnership on Artificial Intelligence to Benefit People and Society » (« partenariat pour l’intelligence artificielle au bénéfice des citoyens et de la société »). Ce partenariat prendra la forme d’une organisation à but non lucratif, qui « mènera des recherches, recommandera de bonnes pratiques, et publiera les résultats de ses recherches sous une licence ouverte »82.
+7 novembre 2017 : Microsoft sort la Xbox One X, " La console la plus puissante jamais crée ".
+Systèmes, logiciels et technologies[modifier | modifier le code]
+Stratégie du « One Windows »[modifier | modifier le code]
+Article détaillé : Microsoft Windows.
+
+Logo de Windows
+Microsoft veut que Windows 10 harmonise l'expérience utilisateur et la fonctionnalité entre les différentes classes de périphériques, par exemple en corrigeant les lacunes de l'interface utilisateur qui ont été introduites dans Windows 883,84,85. Ou bien encore centraliser toutes les applications autour de Windows. Cette stratégie, Microsoft la nomme « One Windows » c'est-à-dire créer un seul écosystème regroupant les Windows pour smartphones, Xbox, les objets connectés ainsi que les autres projets de Microsoft comme le casque à réalité augmentée Hololens ou le tableau interactif de réunion Surface Hub86,87,88,89,90.
+Ces applications universelles sont faites pour fonctionner sur plusieurs plates-formes et les classes de périphériques, y compris les smartphones, tablettes, Xbox, et d'autres compatible avec Windows 1091,92,93.Les applications universelles de Windows, partage du code entre les plates-formes pour s'adapter aux besoins de l'appareil et des taches demandée, pour synchroniser les données entre Windows 10 et les différents appareils qui sont distribués par le Windows Store qui est lui aussi unifié94,95.
+Les applications que Microsoft propose avec Windows 10 sont par exemple :
+Cortana qui est un assistant personnel virtuel développé par Microsoft. Il repose principalement sur Bing, le moteur de recherche de la firme, ainsi que sur les données présentes sur le smartphone de l'utilisateur (contacts, courriels, calendrier, etc.) Il concurrence les assistants Siri d'Apple, S Voice de Samsung et Google Now96. Les résultats sont retournés par Bing mais aussi par des services externes, comme Foursquare pour la géolocalisation97,98.
+Le Microsoft Store (anciennement Windows Store) est une boutique en ligne créée par Microsoft. Il est disponible pour Windows 8, Windows 10 et pour Windows RT. En 2015, Microsoft établi une fusion entre le Windows Store et le Windows Phone Store afin d'unifier smartphones, tablettes et PC99. Le 29 juillet, Microsoft ouvrit le nouveau Windows Store unifié aux développeurs. Les développeurs pourront ainsi soumettre leurs applications devenues des applications universelles afin d'être exécutées sur divers appareils Windows 10 : PC, tablette, smartphone, Xbox One voire HoloLens et Raspberry Pi. Avec Windows 10, Microsoft adopte toujours plus sérieusement sa stratégie d’applications universelles. Ainsi, des logiciels existants ont été mis à jour et de nouveaux font leur apparition tandis qu’ils peuvent désormais tous être lancés en mode fenêtré.
+
+Logo de Cortana
+Microsoft Edge est le navigateur web de Microsoft conçu pour remplacer Internet Explorer100. Contrairement à Internet Explorer, Edge est une application universelle, c'est-à-dire qu'il peut tourner sur PC, tablette et smartphone. Son nom de code, « Spartan », provenait du héros de la série de jeux vidéo Halo, le Spartan John-117. Également, le navigateur est muni d'un mode lecture. On peut aussi prendre des notes facilement depuis Microsoft Edge grâce à l'outil 'Écrire une Note Web' intégré au navigateur.
+Windows est installé sur presque 90 % des ordinateurs personnels (postes clients) vendus dans le monde101, et dégage actuellement 87 % de marge bénéficiaire. Néanmoins, Windows perd petit à petit quelques parts de marché au profit de l'OS X d’Apple102. Linux a grignoté pour sa part une grande part du marché des serveurs, où l'ergonomie est un critère secondaire103. Windows reste cependant en 2016 le produit le plus rentable de l’éditeur, suivi de près par la suite Microsoft Office. À ce jour la dernière version de Windows est Windows 10. C’est la première version de Windows qui est officiellement la même sur toutes les plateformes (ordinateur de bureau, ordinateur portable, tablette tactile, smartphone, montre connectée, casque de réalité virtuelle) bien qu’il s’agisse d’une version modifiée du Windows 10 original. Microsoft a déclaré que c'est la dernière « grande » version disponible sur support physique et que les mises à jour suivantes seront disponibles gratuitement en OTA (via Internet) en tant que « service packs » nommés Windows 10.x.x. Une version spécifique, Windows 10 Mobile, sera disponible pour les appareils mobiles à processeurs ARM et dont l'écran fait moins de 8 pouces. Le système pour les tablettes de moins de 8 pouces aura donc une apparence proche de celle de Windows Phone alors que les tablettes de plus de 8 pouces auront obligatoirement une architecture 32 bits ou 64 bits et exécuteront Windows 10 pour PC. Bill Gates a appelé son service d'exploitation Windows (fenêtres), car l'innovation principale du système d'exploitation était l'emploi de fenêtres d'affichagenote 2.
+La famille Windows Phone est un système d’exploitation mobile qui est le principal produit orienté mobiles de la firme. Il inclut des services de Microsoft comme Office, OneDrive, Xbox Live et Bing. Il intègre aussi des fonctionnalités axées vers les médias sociaux tels Facebook et Twitter. Comme Windows Phone est une nouvelle plate-forme, il n'existe aucune compatibilité avec les applications Windows Mobile. Les ventes des portables sous Windows Phone 7 sont limitées, avec seulement 3 % des ventes en 2011104.
+Les ventes de smartphones sous Windows Phone 8 partent dans une meilleure direction pour Microsoft. En effet en 2013, Windows Phone 8 dépasse les 10 % de parts de marché en Europe105 et se retrouve même devant iOS en Amérique latine106. Windows 10 Mobile est la version mobile du système d'exploitation Windows 10 développé par Microsoft107. Windows 10 Mobile succède à Windows Phone 8.1, et est conçu pour les smartphones et les tablettes tactiles d'une diagonale d'écran inférieure à 8 pouces, fonctionnant sur les architectures ARM, ainsi qu'IA-32. Sa sortie est prévue pour fin 2015108.
+Office, la suite bureautique[modifier | modifier le code]
+Article détaillé : Microsoft Office.
+
+Logo de la suite Microsoft Office
+À l’origine, c’est une suite bureautique de l’éditeur, composée de nombreux logiciels dont le traitement de texte Word, le tableur Excel, le logiciel de présentation PowerPoint, le logiciel de publication Publisher, l’outil de communication et agenda Outlook et la base de données Access. Depuis 2003, la suite Office s’est largement étendue, avec de nombreux logiciels serveurs comme Office Communication Server ou Microsoft Office Web Applications. La suite Office est aussi éditée pour le système OS X d’Apple, mais avec un nombre de logiciels réduit109. Office est un des logiciels les plus rentables de l’éditeur.
+Dans les nouvelles versions d'Office, Microsoft axe sa stratégie sur des applications qui hébergent les données dans le Cloud, avec notamment la sortie de la licence Office 365. Cet outil en ligne permet d'avoir accès à de nombreuses ressources, telles que la suite Office 2016 (version en ligne ou locale), SharePoint, Office Online, OneNote, OneDrive, etc., en fonction du niveau de licence acquis.
+Office Online, est une version en ligne gratuite de Microsoft Office accessible depuis un navigateur web, et dont certaines fonctionnalités sont toutefois réduites par rapport aux logiciels de la suite Office installés sur un ordinateur. Office Online regroupe ainsi les services en ligne Word Online, Excel Online, PowerPoint Online, OneNote Online mais aussi Outlook.com. La page d'accueil d'Office.com vous permet également d'accéder à vos espaces Contacts, Calendrier et OneDrive. Il combine les fonctionnalités traditionnelles d'Office et des fonctions de co-création en temps réel, de sorte qu'il est possible de collaborer gratuitement avec vos proches et amis sur des documents texte, présentations, feuilles de calcul et bloc-notes partagés.
+
+Logo de Skype
+Microsoft propose aussi un drive qui se nomme Microsoft OneDrive qui est un ensemble de services en ligne : stockage et applications Word, Excel, PowerPoint et OneNote, dont les fonctionnalités sont toutefois réduites par rapport aux logiciels installés sur un ordinateur. Ce service a été créé en 2007 et a porté les noms Windows Live Folders, Windows Live SkyDrive, SkyDrive et enfin son nom actuel depuis janvier 2014.
+Le service peut s'utiliser de deux manières : à travers un navigateur web, en téléchargeant des fichiers sur un serveur, en les récupérant sur son ordinateur au besoin et en les partageant avec des amis ou avec tous les internautes ; ou à travers le logiciel OneDrive qui permet une synchronisation rapide entre OneDrive et les supports informatiques compatibles. Ce service est une manifestation du concept de cloud computing.
+Début 2012, Microsoft a annoncé l'intégration de SkyDrive dans Windows 8. En avril 2012, la capacité de stockage est abaissée à 7 Go et devient payante au-delà, avec des offres allant de 8 à 37 euros par an permettant d'atteindre jusqu'à 100 Go. Toutefois, pour les utilisateurs déjà inscrits, il était possible de demander l'extension à 25 Go gratuitement. Cette possibilité n'existe plus depuis le 1er mai 2012.
+À la fin de juillet 2013, à la suite d'un procès perdu contre le groupe audiovisuel britannique British Sky Broadcasting (BSkyB), Microsoft sera contraint de changer le nom de son service de stockage en ligne110. Finalement, c'est le 27 janvier 2014 que Microsoft annonce le changement de nom en OneDrive. Le 18 février 2014 le nom de SkyDrive devient officiellement OneDrive.
+Skype est un logiciel gratuit qui permet aux utilisateurs de passer des appels téléphoniques et vidéo via Internet, ainsi que le partage d'écran. Les appels d’utilisateur à utilisateur sont gratuits, tandis que ceux vers les lignes téléphoniques fixes et les téléphones mobiles sont payants. Il existe des fonctionnalités additionnelles comme la messagerie instantanée, le transfert de fichiers et la visioconférence.
+
+Logo de OneDrive
+En décembre 2014, Skype lance Skype Translator. Cette application permettra la traduction instantanée des communications vocales dans plus de 40 langues. Pour son lancement, les deux premières langues supportées par l'application sont l'anglais et l'espagnol111.
+Le 6 novembre 2012, Microsoft112 annonce que les utilisateurs de Windows Live Messenger seront d'ici quelques mois intégré dans Skype. Windows Live Messenger sera désactivé le premier trimestre 2013113 (exception faite de la Chine). À cela s'ajoute un changement technologique, puisque 80 %114 de la messagerie instantanée transiteraient par les serveurs de Messenger.
+En décembre 2014, Skype lance Skype Translator. Cette application permettra la traduction instantanée des communications vocales dans plus de 40 langues. Pour son lancement, les deux premières langues supportées par l'application sont l'anglais et l'espagnol111. Skype est désormais intégré à la suite bureautique en ligne qui se nomme Office Online115.
+Le 14 mars 2017, Microsoft lance Teams pour concurrencer Slack dans son offre Office 365 pour entreprise : un logiciel collaboratif basé sur Skype.

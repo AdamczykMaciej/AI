@@ -1,0 +1,103 @@
+Artificial intelligence
+From Wikipedia, the free encyclopedia
+"AI" redirects here. For other uses, see AI (disambiguation) and Artificial intelligence (disambiguation).
+Artificial intelligence
+Major goals
+Knowledge reasoning
+Planning
+Machine learning
+Natural language processing
+Computer vision
+Robotics
+Artificial general intelligence
+Approaches
+Symbolic
+Deep learning
+Bayesian networks
+Evolutionary algorithms
+Philosophy
+Ethics
+Existential risk
+Turing test
+Chinese room
+Friendly AI
+History
+Timeline
+Progress
+AI winter
+Technology
+Applications
+Projects
+Programming languages
+Glossary
+Glossary
+Artificial intelligence (AI, also machine intelligence, MI) is intelligence demonstrated by machines, in contrast to the natural intelligence (NI) displayed by humans and other animals. In computer science AI research is defined as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.[1] Colloquially, the term "artificial intelligence" is applied when a machine mimics "cognitive" functions that humans associate with other human minds, such as "learning" and "problem solving".[2]
+The scope of AI is disputed: as machines become increasingly capable, tasks considered as requiring "intelligence" are often removed from the definition, a phenomenon known as the AI effect, leading to the quip, "AI is whatever hasn't been done yet."[3] For instance, optical character recognition is frequently excluded from "artificial intelligence", having become a routine technology.[4] Capabilities generally classified as AI as of 2017 include successfully understanding human speech,[5] competing at the highest level in strategic game systems (such as chess and Go[6]), autonomous cars, intelligent routing in content delivery network and military simulations.
+Artificial intelligence was founded as an academic discipline in 1956, and in the years since has experienced several waves of optimism,[7][8] followed by disappointment and the loss of funding (known as an "AI winter"),[9][10] followed by new approaches, success and renewed funding.[8][11] For most of its history, AI research has been divided into subfields that often fail to communicate with each other.[12] These sub-fields are based on technical considerations, such as particular goals (e.g. "robotics" or "machine learning"),[13] the use of particular tools ("logic" or "neural networks"), or deep philosophical differences.[14][15][16] Subfields have also been based on social factors (particular institutions or the work of particular researchers).[12]
+The traditional problems (or goals) of AI research include reasoning, knowledge representation, planning, learning, natural language processing, perception and the ability to move and manipulate objects.[13] General intelligence is among the field's long-term goals.[17] Approaches include statistical methods, computational intelligence, and traditional symbolic AI. Many tools are used in AI, including versions of search and mathematical optimization, neural networks and methods based on statistics, probability and economics. The AI field draws upon computer science, mathematics, psychology, linguistics, philosophy and many others.
+The field was founded on the claim that human intelligence "can be so precisely described that a machine can be made to simulate it".[18] This raises philosophical arguments about the nature of the mind and the ethics of creating artificial beings endowed with human-like intelligence, issues which have been explored by myth, fiction and philosophy since antiquity.[19] Some people also consider AI to be a danger to humanity if it progresses unabatedly.[20] Others believe that AI, unlike previous technological revolutions, will create a risk of mass unemployment.[21]
+In the twenty-first century, AI techniques have experienced a resurgence following concurrent advances in computer power, large amounts of data, and theoretical understanding; and AI techniques have become an essential part of the technology industry, helping to solve many challenging problems in computer science.[22][11]
+Contents  [hide] 
+1	History
+2	Basics
+3	Problems
+3.1	Reasoning, problem solving
+3.2	Knowledge representation
+3.3	Planning
+3.4	Learning
+3.5	Natural language processing
+3.6	Perception
+3.7	Motion and manipulation
+3.8	Social intelligence
+3.9	Creativity
+3.10	General intelligence
+4	Approaches
+4.1	Cybernetics and brain simulation
+4.2	Symbolic
+4.3	Sub-symbolic
+4.4	Statistical
+4.5	Integrating the approaches
+5	Tools
+5.1	Search and optimization
+5.2	Logic
+5.3	Probabilistic methods for uncertain reasoning
+5.4	Classifiers and statistical learning methods
+5.5	Artificial neural networks
+5.6	Languages
+5.7	Evaluating progress
+6	Applications
+6.1	Competitions and prizes
+6.2	Healthcare
+6.3	Automotive
+6.4	Finance and economics
+6.5	Video games
+6.6	Military
+7	Platforms
+7.1	Education in AI
+7.2	Partnership on AI
+8	Philosophy and ethics
+8.1	The limits of artificial general intelligence
+8.2	Potential risks and moral reasoning
+8.3	Machine consciousness, sentience and mind
+8.4	Superintelligence
+9	In fiction
+10	See also
+11	Explanatory notes
+12	References
+12.1	AI textbooks
+12.2	History of AI
+12.3	Other sources
+13	Further reading
+14	External links
+History[edit]
+Main articles: History of artificial intelligence and Timeline of artificial intelligence
+
+Talos, an ancient mythical automaton with artificial intelligence
+Thought-capable artificial beings appeared as storytelling devices in antiquity,[23] and have been common in fiction, as in Mary Shelley's Frankenstein or Karel Capek's R.U.R. (Rossum's Universal Robots).[24] These characters and their fates raised many of the same issues now discussed in the ethics of artificial intelligence.[19]
+The study of mechanical or "formal" reasoning began with philosophers and mathematicians in antiquity. The study of mathematical logic led directly to Alan Turing's theory of computation, which suggested that a machine, by shuffling symbols as simple as "0" and "1", could simulate any conceivable act of mathematical deduction. This insight, that digital computers can simulate any process of formal reasoning, is known as the Church–Turing thesis.[25] Along with concurrent discoveries in neurobiology, information theory and cybernetics, this led researchers to consider the possibility of building an electronic brain. Turing proposed that "if a human could not distinguish between responses from a machine and a human, the machine could be considered “intelligent".[26] The first work that is now generally recognized as AI was McCullouch and Pitts' 1943 formal design for Turing-complete "artificial neurons".[27]
+The field of AI research was born at a workshop at Dartmouth College in 1956.[28] Attendees Allen Newell (CMU), Herbert Simon (CMU), John McCarthy (MIT), Marvin Minsky (MIT) and Arthur Samuel (IBM) became the founders and leaders of AI research.[29] They and their students produced programs that the press described as "astonishing":[30] computers were learning checkers strategies (c. 1954)[31] (and by 1959 were reportedly playing better than the average human),[32] solving word problems in algebra, proving logical theorems (Logic Theorist, first run c. 1956) and speaking English.[33] By the middle of the 1960s, research in the U.S. was heavily funded by the Department of Defense[34] and laboratories had been established around the world.[35] AI's founders were optimistic about the future: Herbert Simon predicted, "machines will be capable, within twenty years, of doing any work a man can do". Marvin Minsky agreed, writing, "within a generation ... the problem of creating 'artificial intelligence' will substantially be solved".[7]
+They failed to recognize the difficulty of some of the remaining tasks. Progress slowed and in 1974, in response to the criticism of Sir James Lighthill[36] and ongoing pressure from the US Congress to fund more productive projects, both the U.S. and British governments cut off exploratory research in AI. The next few years would later be called an "AI winter",[9] a period when obtaining funding for AI projects was difficult.
+In the early 1980s, AI research was revived by the commercial success of expert systems,[37] a form of AI program that simulated the knowledge and analytical skills of human experts. By 1985 the market for AI had reached over a billion dollars. At the same time, Japan's fifth generation computer project inspired the U.S and British governments to restore funding for academic research.[8] However, beginning with the collapse of the Lisp Machine market in 1987, AI once again fell into disrepute, and a second, longer-lasting hiatus began.[10]
+In the late 1990s and early 21st century, AI began to be used for logistics, data mining, medical diagnosis and other areas.[22] The success was due to increasing computational power (see Moore's law), greater emphasis on solving specific problems, new ties between AI and other fields (such as statistics, economics and mathematics), and a commitment by researchers to mathematical methods and scientific standards.[38] Deep Blue became the first computer chess-playing system to beat a reigning world chess champion, Garry Kasparov on 11 May 1997.[39]
+In 2011, a Jeopardy! quiz show exhibition match, IBM's question answering system, Watson, defeated the two greatest Jeopardy champions, Brad Rutter and Ken Jennings, by a significant margin.[40] Faster computers, algorithmic improvements, and access to large amounts of data enabled advances in machine learning and perception; data-hungry deep learning methods started to dominate accuracy benchmarks around 2012.[41] The Kinect, which provides a 3D body–motion interface for the Xbox 360 and the Xbox One use algorithms that emerged from lengthy AI research[42] as do intelligent personal assistants in smartphones.[43] In March 2016, AlphaGo won 4 out of 5 games of Go in a match with Go champion Lee Sedol, becoming the first computer Go-playing system to beat a professional Go player without handicaps.[6][44] In the 2017 Future of Go Summit, AlphaGo won a three-game match with Ke Jie,[45] who at the time continuously held the world No. 1 ranking for two years.[46][47] This marked the completion of a significant milestone in the development of Artificial Intelligence as Go is an extremely complex game, more so than Chess.
+According to Bloomberg's Jack Clark, 2015 was a landmark year for artificial intelligence, with the number of software projects that use AI within Google increased from a "sporadic usage" in 2012 to more than 2,700 projects. Clark also presents factual data indicating that error rates in image processing tasks have fallen significantly since 2011.[48] He attributes this to an increase in affordable neural networks, due to a rise in cloud computing infrastructure and to an increase in research tools and datasets.[11] Other cited examples include Microsoft's development of a Skype system that can automatically translate from one language to another and Facebook's system that can describe images to blind people.[48]

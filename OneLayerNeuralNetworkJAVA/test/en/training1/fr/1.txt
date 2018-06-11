@@ -1,0 +1,85 @@
+Intelligence artificielle
+Page d'aide sur l'homonymie Pour les articles homonymes, voir A.I. Intelligence artificielle (film), IA Ce lien renvoie vers une page d'homonymie.
+
+L'enceinte Google Home, un assistant personnel intelligent, est l'une des applications concrètes de l'intelligence artificielle dans les années 2010.
+L'intelligence artificielle (IA) est « l'ensemble de théories et de techniques mises en œuvre en vue de réaliser des machines capables de simuler l'intelligence »1. Elle correspond donc à un ensemble de concepts et de technologies plus qu'à une discipline autonome constituée. D'autres, remarquant la définition peu précise de l'IA, notamment la CNIL, la définissent comme "le grand mythe de notre temps"2.
+Souvent classée dans le groupe des sciences cognitives, elle fait appel à la neurobiologie computationnelle (particulièrement aux réseaux neuronaux), à la logique mathématique (sous-discipline des mathématiques et de la philosophie) et à l'informatique. Elle recherche des méthodes de résolution de problèmes à forte complexité logique ou algorithmique. Par extension elle désigne, dans le langage courant, les dispositifs imitant ou remplaçant l'homme dans certaines mises en œuvre de ses fonctions cognitives3.
+Ses finalités et son développement suscitent, depuis toujours, de nombreuses interprétations, fantasmes ou inquiétudes s'exprimant tant dans les récits ou films de science-fiction que dans les essais philosophiques.
+Sommaire  [masquer] 
+1	Définition
+2	Historique
+2.1	Personnalités de l'intelligence artificielle
+2.1.1	Prix Turing
+2.1.2	Autres personnalités
+2.2	Faits marquants depuis les années 2000
+2.3	En France
+3	Test de Turing
+4	Intelligence artificielle forte
+4.1	Définition
+4.2	Estimation de faisabilité
+4.3	Diversité des opinions
+4.4	Travaux complémentaires
+5	Intelligence artificielle faible
+5.1	Estimation de faisabilité
+6	Courants de pensée
+6.1	Cognitivisme
+6.2	Connexionnisme
+6.3	Synthèse
+7	Différentes facettes
+8	Conception de systèmes
+9	Domaines d’application
+9.1	Finance et banques
+9.2	Militaire
+9.3	Médecine
+9.4	Droit
+9.5	Logistique et transports
+9.6	Robotique
+9.7	Jeux vidéo
+9.8	Autres domaines
+10	Précurseurs
+10.1	Automates
+10.2	Pensée automatique
+11	Questionnements
+11.1	Espoirs et enthousiasme
+11.2	Critiques et inquiétudes
+11.3	Critique de la technique et de la technologie
+11.4	Questionnements éthiques
+12	Perspectives et projections dans le futur
+13	Dans la science-fiction
+13.1	Quelques IA célèbres dans la science-fiction
+14	Formation
+15	L'intelligence artificielle et les jeux
+15.1	Othello
+15.2	Échecs
+15.3	Go
+15.4	Jeopardy!
+15.5	Poker
+16	Notes et références
+16.1	Notes
+16.2	Références
+17	Annexes
+17.1	Bibliographie
+17.2	Articles connexes
+17.3	Liens externes
+Définition[modifier | modifier le code]
+Le terme « intelligence artificielle », créé par John McCarthy, est souvent abrégé par le sigle « IA » (ou « AI » en anglais, pour Artificial Intelligence). Il est défini par l’un de ses créateurs, Marvin Lee Minsky, comme « la construction de programmes informatiques qui s’adonnent à des tâches qui sont, pour l’instant, accomplies de façon plus satisfaisante par des êtres humains car elles demandent des processus mentaux de haut niveau tels que : l’apprentissage perceptuel, l’organisation de la mémoire et le raisonnement critique »4,5. On y trouve donc le côté « artificiel » atteint par l'usage des ordinateurs ou de processus électroniques élaborés et le côté « intelligence » associé à son but d'imiter le comportement. Cette imitation peut se faire dans le raisonnement, par exemple dans les jeux ou la pratique des mathématiques, dans la compréhension des langues naturelles, dans la perception : visuelle (interprétation des images et des scènes), auditive (compréhension du langage parlé) ou par d'autres capteurs, dans la commande d'un robot dans un milieu inconnu ou hostile.
+Même si elles respectent globalement la définition de Minsky, il existe un certain nombre de définitions différentes de l'IA qui varient sur deux points fondamentaux6 :
+Les définitions qui lient la définition de l'IA à un aspect humain de l'intelligence, et celles qui la lient à un modèle idéal d'intelligence, non forcément humaine, nommée rationalité.
+Les définitions qui insistent sur le fait que l'IA a pour but d'avoir toutes les apparences de l'intelligence (humaine ou rationnelle), et celles qui insistent sur le fait que le fonctionnement interne du système d'IA doit ressembler également à celui de l'être humain et être au moins aussi rationnel.
+Historique[modifier | modifier le code]
+Article détaillé : Histoire de l'intelligence artificielle.
+Historiquement, elle trouve son point de départ dans les années 1950 avec les travaux d'Alan Turing, qui se demande si une machine peut « penser ». Le développement croissant des technologies informatiques (puissance de calcul) et des techniques algorithmiques (notamment l'apprentissage profond ou deep learning) ont permis la réalisation de programmes informatiques surpassant l'homme dans certaines de ses capacités cognitives emblématiques : le jeu d'échecs en 1997, le jeu de go en 2016 et le poker en 2017.
+L'une des origines de l'intelligence artificielle se trouve probablement dans l'article d'Alan Turing « Computing Machinery and Intelligence » (Mind, octobre 1950)7, où Turing explore le problème et propose une expérience maintenant connue sous le nom de test de Turing dans une tentative de définition d'un standard permettant de qualifier une machine de « consciente ». Il développe cette idée dans plusieurs forums, dans la conférence « L'intelligence de la machine, une idée hérétique »8, dans la conférence qu'il donne à la BBC 3e programme le 15 mai 1951 « Les calculateurs numériques peuvent-ils penser ? »9 ou la discussion avec M.H.A. Newman, Sir Geoffrey Jefferson et R.B. Braithwaite les 14 et 23 janvier 1952 sur le thème « Les ordinateurs peuvent-ils penser? »10. L'autre origine probable est la publication, en 1949, par Warren Weaver de son mémorandum sur la traduction automatique des langues11 qui suggère qu'une machine puisse faire une tâche qui relève typiquement de l'intelligence humaine.
+On considère que l'intelligence artificielle, en tant que domaine de recherche, a été créée à la conférence qui s'est tenue sur le campus de Dartmouth College pendant l'été 195612 à laquelle assistaient ceux qui vont marquer la discipline. L'intelligence artificielle se développe ensuite surtout aux États-Unis à l'université Stanford sous l'impulsion de John McCarthy, au MIT sous celle de Marvin Minsky, à l'université Carnegie-Mellon sous celle de Allen Newell et Herbert Simon et à l'université d'Édimbourg sous celle de Donald Michie. En France, l'un des pionniers est Jacques Pitrat.
+Toutefois le sujet de l'intelligence artificielle est un sujet dont les bornes peuvent varier. Par exemple, la recherche d'un itinéraire était considéré comme un problème d'intelligence artificielle dans les années 1950, alors que depuis que des applications sont dotées d'algorithmes pour résoudre ces questions la recherche d'itinéraires n'est plus considérée comme de l'intelligence artificielle13.
+Personnalités de l'intelligence artificielle[modifier | modifier le code]
+Prix Turing[modifier | modifier le code]
+Plusieurs prix Turing ont été attribués à des pionniers de l'intelligence artificielle, dont:
+Marvin Minsky en 1969 ;
+John McCarthy en 1971 ;
+Allen Newell et Herbert Simon en 1975 ;
+Edward Feigenbaum et Raj Reddy en 1994 ;
+Judea Pearl en 2011.
+Autres personnalités[modifier | modifier le code]
+Cette section est vide, insuffisamment détaillée ou incomplète. Votre aide est la bienvenue ! Comment faire ?
+Ian Goodfellow (en), inventeur des Réseaux antagonistes génératifs.

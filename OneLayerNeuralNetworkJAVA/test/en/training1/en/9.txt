@@ -1,0 +1,434 @@
+Ownership
+Apple Inc. is a joint-stock company registered with the SEC. As of 30 December 2017, it has 5,112,877,000 outstanding shares. These are mainly held by institutional investors and funds.[517][518]
+6.43% (337,545,664): The Vanguard Group, Inc.
+4.19% (219,739,579): State Street Corporation
+3.23% (165,300,000): Berkshire Hathaway, Inc.
+3.01% (157,982,573): FMR, LLC
+2.76% (144,750,804): BlackRock Institutional Trust Company
+2.01% (105,224,082): Vanguard Total Stock Market Index Fund
+1.46% (76,838,518): BlackRock Fund Advisors
+1.42% (74,581,785): Vanguard 500 Index Fund
+1.26% (66,180,770): Northern Trust Corporation
+1.14% (59,781,550): Vanguard Institutional Index Fund-Institutional Index Fund
+1.11% (58,148,652): Bank of New York Mellon Corporation
+1.08% (56,659,296): SPDR S&P 500 ETF Trust
+1.06% (55,512,801): T. Rowe Price Associates Inc.
+Litigation
+Main article: Apple Inc. litigation
+Apple has been a participant in various legal proceedings and claims since it began operation.[519] In particular, Apple is known for and promotes itself as actively and aggressively enforcing its intellectual property interests. Some litigation examples include Apple v. Samsung, Apple v. Microsoft, Motorola Mobility v. Apple Inc., and Apple Corps v. Apple Computer. Apple has also had to defend itself against charges on numerous occasions of violating intellectual property rights. Most have been dismissed in the courts as shell companies known as patent trolls, with no evidence of actual use of patents in question.[520] On December 21, 2016, Nokia announced that in the U.S. and Germany, it has filed a suit against Apple, claiming that the latter's products infringe on Nokia's patents.[521][522] Most recently, in November 2017, the United States International Trade Commission announced an investigation into allegations of patent infringement in regards to Apple's remote desktop technology; Aqua Connect, a company that builds remote desktop software, has claimed that Apple infringed on two of its patents.[523]
+Privacy stance
+Apple has a notable pro-privacy stance, actively making privacy-conscious features and settings part of its conferences, promotional campaigns, and public image.[524][525][526] With its iOS 8 mobile operating system in 2014, the company started encryption all contents of iOS devices through users' passcodes, making it impossible for the company to provide customer data to law enforcement requests seeking such information.[527] With the popularity rise of cloud storage solutions, Apple began a technique in 2016 to do deep learning scans for facial data in photos on the user's local device and encrypting the content before uploading it to Apple's iCloud storage system.[528] It also introduced "differential privacy", a way to collect crowdsourced data from many users, while keeping individual users anonymous, in a system that Wired described as "trying to learn as much as possible about a group while learning as little as possible about any individual in it".[529] Users are explicitly asked if they want to participate, and can actively opt-in or opt-out.[530]
+That said, Apple aids law enforcement in criminal investigations by providing iCloud backups of users' devices,[531][532] and the company's commitment to privacy has been questioned by its efforts to promote biometric authentication technology in its newer iPhone models, which don't have the same level of constitutional privacy as a passcode in the United States.[533]
+Charitable causes
+Apple is a partner of (PRODUCT)RED, a fundraising campaign for AIDS charity. In November 2014, Apple arranged for all App Store revenue in a two-week period to go to the fundraiser,[534] generating more than US$20 million,[535][536] and in March 2017, it released an iPhone 7 with a red color finish.[537][538]
+Apple contributes financially to fundraisers in times of natural disasters. In November 2012, it donated $2.5 million to the American Red Cross to aid relief efforts after Hurricane Sandy,[539] and in 2017 it donated $5 million to relief efforts for both Hurricane Irma and Hurricane Harvey,[540] as well as for the 2017 Central Mexico earthquake.[541] The company has also used its iTunes platform to encourage donations, including, but not limited to, help the American Red Cross in the aftermath of the 2010 Haiti earthquake,[542] followed by similar procedure in the aftermath of the 2011 Japan earthquake,[543] Typhoon Haiyan in the Philippines in November 2013,[544] and European migrant crisis in September 2015.[545] Apple emphasizes that it does not incur any processing or other fees for iTunes donations, sending 100% of the payments directly to relief efforts, though it also acknowledges that the Red Cross does not receive any personal information on the users donating and that the payments may not be tax deductible.[546]
+On April 14, 2016, Apple and the World Wide Fund for Nature (WWF) announced that they have engaged in a partnership to, "help protect life on our planet." Apple released a special page in the iTunes App Store, Apps for Earth. In the arrangement, Apple has committed that through April 24, WWF will receive 100% of the proceeds from the applications participating in the App Store via both the purchases of any paid apps and the In-App Purchases. Apple and WWF's Apps for Earth campaign raised more than $8 million in total proceeds to support WWF's conservation work. WWF announced the results at WWDC 2016 in San Francisco.[547][548][549]
+Criticism and controversies
+
+This section should include a better summary of Criticism of Apple Inc.. See Wikipedia:Summary style for information on how to properly incorporate it into this article's main text. (November 2017)
+Main article: Criticism of Apple Inc.
+Apple has been criticised for its unethical business practices such as anti-competitive behavior, rash litigation,[550] and dubious tax tactics, their production methods involving the use of sweatshop labor,[551][552][553] customer service issues involving misleading warranties and insufficient data security, as well as its products' environmental footprint. Apple's products have been claimed by critics to combine stolen and/or purchased designs that it claims are its own original creations.[554][555] Additionally, it has also been criticized for its alleged collaboration with the U.S. surveillance program PRISM.[556][557]
+See also
+	
+Book: Apple Inc.
+Apple media events
+Pixar
+References
+^ Jump up to: a b c d e f "Apple Form 10-K Annual Report" (PDF). November 3, 2017.
+Jump up ^ Taylor, Harriet (August 30, 2016). "How Apple managed to pay such a low tax rate in Ireland". Retrieved January 9, 2017.
+Jump up ^ https://www.nytimes.com/2018/03/25/business/media/apple-hollywood-streaming.html
+Jump up ^ Williams, Rhiannon (April 1, 2015). "Apple celebrates 39th year on April 1". The Telegraph. Telegraph Media Group. Retrieved July 9, 2017.
+Jump up ^ "Apple co-founder tells his side of the story". The Sydney Morning Herald. Fairfax Media. September 28, 2006. Retrieved July 9, 2017.
+Jump up ^ "A Chat with Computing Pioneer Steve Wozniak". NPR. September 29, 2006. Retrieved July 9, 2017.
+Jump up ^ Dormehl, Luke (March 3, 2017). "Today in Apple history: Homebrew Computer Club meets for first time". Cult of Mac. Retrieved July 9, 2017.
+Jump up ^ "The Homebrew Computer Club". Computer History Museum. Retrieved July 9, 2017.
+Jump up ^ Kahney, Leander. Rebuilding an Apple From the Past, Wired, November 19, 2002. Archived March 18, 2014, at the Wayback Machine.
+Jump up ^ Federal Reserve Bank of Minneapolis Community Development Project. "Consumer Price Index (estimate) 1800–". Federal Reserve Bank of Minneapolis. Retrieved January 2, 2018.
+Jump up ^ "Building the digital age". BBC News. November 15, 2007. Retrieved January 19, 2008.
+Jump up ^ "Apple I". Computer History Museum. Archived from the original on March 26, 2007. Retrieved January 19, 2008.
+Jump up ^ Game Makers (TV Show): Apple II. Originally aired January 6, 2005.
+Jump up ^ "Picture of original ad featuring US666.66 price".
+Jump up ^ Wozniak, Steven. "iWoz", p. 180. W. W. Norton, 2006. ISBN 978-0-393-06143-7
+Jump up ^ Dormehl, Luke (January 3, 2017). "Today in Apple history: Apple becomes a corporation". Cult of Mac. Retrieved May 2, 2017.
+^ Jump up to: a b "Frequently Asked Questions". Apple Inc. Retrieved April 18, 2017.
+Jump up ^ Luo, Benny (September 12, 2013). "Ronald Wayne: On Co-founding Apple and Working With Steve Jobs". Next Shark. Retrieved July 9, 2017.
+Jump up ^ Simon, Dan (June 24, 2010). "The gambling man who co-founded Apple and left for $800". CNN. Retrieved July 9, 2017.
+Jump up ^ "Apple chronology". CNNMoney. January 6, 1998. Retrieved May 2, 2017.
+Jump up ^ Gilbert, Ben (December 26, 2016). "Where are the first 10 Apple employees today?". Business Insider. Retrieved May 2, 2017.
+Jump up ^ Infinite Loop, Malone, p157
+Jump up ^ McCracken, Harry (April 1, 2016). "Apple's sales grew 150x between 1977–1980". Fast Company. Retrieved May 2, 2017.
+Jump up ^ Steven Weyhrich (April 21, 2002). "Apple II History Chapter 4". Retrieved August 18, 2008.
+Jump up ^ Hormby, Thomas. VisiCalc and the rise of the Apple II, Low End Mac, September 22, 2006. Retrieved March 2, 2007.
+Jump up ^ Bagnall, Brian (2005). On the Edge: The Spectacular Rise and Fall of Commodore. Variant Press. pp. 109–112. ISBN 978-0-9738649-0-8.
+Jump up ^ Personal Computer Market Share: 1975–2004 Archived June 6, 2012, at the Wayback Machine. The figures show Mac higher, but that is not a single model.
+Jump up ^ LEM Staff. "Apple III Chaos: What Happened When Apple Tried to Enter the Business Market". Low End Mac. September 1, 2006. Retrieved March 2, 2007.
+Jump up ^ Landley, Rob (September 18, 2000). "Fool.com: How Xerox Forfeited the PC War". The Motley Fool. Archived from the original on July 23, 2008. Retrieved August 12, 2008.
+Jump up ^ Brooks, Alex (March 30, 2006). "Apple at 30 – 1976 to 1986". World of Apple. Archived from the original on October 20, 2008. Retrieved May 2, 2017.
+Jump up ^ Abell, John C. (January 19, 2010). "Jan. 19, 1983: Apple Gets Graphic With Lisa". Wired. Retrieved May 2, 2017.
+Jump up ^ Hormby, Thomas. A history of Apple's Lisa, 1979–1986, Low End Mac, October 6, 2005. Retrieved March 2, 2007.
+Jump up ^ Dilger, Daniel Eran (December 12, 2013). "Apple, Inc. stock IPO created 300 millionaires 33 years ago today". AppleInsider. Retrieved April 18, 2017.
+Jump up ^ Brian Harvey (1994). "Is Programing Obsolete?". Electrical Engineering and Computer Sciences, University of California, Berkeley. Archived from the original on June 14, 2013. Retrieved June 14, 2013.
+Jump up ^ Ted Friedman. "Apple's 1984: The Introduction of the Macintosh in the Cultural History of Personal Computers". Archived from the original on October 14, 2012.
+Jump up ^ Maney, Kevin (January 28, 2004). "Apple's '1984' Super Bowl commercial still stands as watershed event". USA Today. Retrieved April 18, 2017.
+Jump up ^ Leopold, Todd (February 3, 2006). "Why 2006 isn't like '1984'". CNN. Retrieved April 18, 2017.
+Jump up ^ "The greatest commercials of all time". TV Guide. CBS Interactive. October 12, 1999. Archived from the original on October 12, 1999. Retrieved April 18, 2017.
+Jump up ^ Taube, Aaron (January 22, 2014). "How The Greatest Super Bowl Ad Ever — Apple's '1984' — Almost Didn't Make It To Air". Business Insider. Retrieved April 18, 2017.
+^ Jump up to: a b Thomas Hormby (October 2, 2006). "Good-bye Woz and Jobs: How the first Apple era ended in 1985". Low End Mac. Retrieved March 2, 2007.
+Jump up ^ "When was desktop publishing invented?". Archived from the original on April 20, 2007. Retrieved April 30, 2007.
+^ Jump up to: a b Thomas Hormby (February 22, 2006). "Growing Apple with the Macintosh: The Sculley years". Low End Mac. Retrieved March 2, 2007.
+Jump up ^ Spector, G (September 24, 1985). "Apple's Jobs Starts New Firm, Targets Education Market". PC Week. p. 109.
+Jump up ^ Rice, Valerie (April 15, 1985). "Unrecognized Apple II Employees Exit". InfoWorld. p. 35. Retrieved November 6, 2017.
+Jump up ^ Carlton, Jim (1997). Apple: The inside story of intrigue, egomania, and business blunders. New York: Random House. pp. 79–80. ISBN 0-8129-2851-2.
+Jump up ^ Carlton, Jim (1997). Apple: The inside story of intrigue, egomania, and business blunders. New York: Random House. pp. 117–129. ISBN 0-8129-2851-2.
+Jump up ^ "MacAddict". No. 89. January 2004. Retrieved April 1, 2017.
+Jump up ^ Lee, Timothy B. (June 5, 2012). "The Five Most Expensive Apple Computers In History". Forbes. Retrieved July 8, 2017.
+Jump up ^ "The Apple IIGS, Cont". Apple II History. July 10, 2002. Archived from the original on September 12, 2008. Retrieved July 8, 2017.
+Jump up ^ Edwards, Benj (January 18, 2013). "30 years of the Apple Lisa and the Apple IIe". Macworld. International Data Group. Retrieved July 8, 2017.
+Jump up ^ "Exclusive: New pics of Apple's unreleased tablet prototype from 1992 – and the Mac that flew on the Space Shuttle". stuff.tv. Retrieved April 14, 2016.
+Jump up ^ "Macintosh Performa". Vectronics Apple World. Archived from the original on April 19, 2013. Retrieved November 29, 2010.
+Jump up ^ "1990–1995: Why the World Went Windows". Retrieved August 12, 2008.
+Jump up ^ Hormby, Thomas. The Apple vs. Microsoft GUI lawsuit, Low End Mac, August 25, 2006. Retrieved March 2, 2007.
+Jump up ^ "Michael Spindler: The Peter Principle at Apple". Archived from the original on September 8, 2008. Retrieved August 12, 2008.
+Jump up ^ "1990–1995: Hitting the Wall". Archived from the original on September 24, 2008. Retrieved August 14, 2008.
+Jump up ^ "Power Macintosh 6100". Retrieved August 12, 2008.
+Jump up ^ Chaffin, Bryan. "Former Apple CEO Gil Amelio Lands A New CEO Job | The Mac Observer", The Mac Observer, February 6, 2001. Retrieved August 15, 2008.
+Jump up ^ "Apple Computer, Inc. Finalizes Acquisition of NeXT Software Inc". Apple Inc. February 7, 1997. Archived from the original on July 24, 2001. Retrieved June 25, 2006.
+Jump up ^ Apple Computer, Inc. Finalizes Acquisition of NeXT Software Inc. at the Wayback Machine (archive index), Apple Inc., February 7, 1997. Retrieved June 25, 2006.
+^ Jump up to: a b c d John Arlidge (March 17, 2014). "Jonathan Ive Designs Tomorrow". Time. Time Inc. Retrieved March 22, 2014.
+Jump up ^ Microsoft and Apple Affirm Commitment to Build Next Generation Software for Macintosh Microsoft Corp., August 6, 1997.
+Jump up ^ Harreld, Heather (January 5, 1997). "Apple gains tech, agency customers in Next deal". Federal Computer Week. Archived from the original on December 6, 2008. Retrieved August 15, 2008.
+Jump up ^ "Apple unveils new marketing strategy". Knight Ridder/Tribune News Service. November 10, 1997. Archived from the original on November 13, 2008. Retrieved August 15, 2008.
+Jump up ^ Grossman, Lev. The Apple Of Your Ear, Time, January 12, 2007. Retrieved February 1, 2007.
+Jump up ^ Wilson, Greg. Private iCreator is genius behind Apple's polish, New York Daily News, January 14, 2007. Retrieved February 1, 2007.
+Jump up ^ Apple Canada Inc (January 5, 1999). "800,000 iMacs Sold in First 139 Days". Archived from the original on November 8, 2014. Retrieved January 26, 2008.
+Jump up ^ "Why Apple Bounced Back". Roughly Drafted. Roughly Drafted. October 25, 2006. Retrieved November 8, 2014.
+Jump up ^ "A new beginning or swan song for Final Cut Pro X". GR Reporter. GRRreporter Ltd. June 7, 2013. Retrieved November 8, 2014.
+^ Jump up to: a b Matt Bell, Mark Wherry (September 2002). "APPLE/EMAGIC TAKEOVER The Inside Story Of The Deal That Changed The Music World". Sound On Sound. SOS Publications Group. Archived from the original on November 8, 2014. Retrieved November 8, 2014.
+Jump up ^ "Apple to acquire Spruce Technologies". Broadcast. Retrieved 2018-04-06.
+Jump up ^ "Spruce Technologies Inc.: Private Company Information - Bloomberg". www.bloomberg.com. Retrieved 2018-04-06.
+Jump up ^ Chaffin, Bryan. "Apple Shake: Apple Buys Nothing Real, A High End Compositing Software Maker", The Mac Observer, February 7, 2002. Retrieved August 15, 2008.
+Jump up ^ Deitrich, Andy (February 2, 2004). "Garage Band". Ars Technica. Retrieved March 23, 2017.
+Jump up ^ Apple Introduces iPhoto, Apple Inc., January 7, 2002. Retrieved October 30, 2015.
+Jump up ^ "An Exclusive Look at Mac OS 9". Egg Freckles. Egg Freckles. February 24, 2014. Archived from the original on February 29, 2012. Retrieved March 23, 2014.
+Jump up ^ "Apple Stores 2001–2003". IFO Apple Store. Archived from the original on September 27, 2011. Retrieved October 7, 2011.
+Jump up ^ Apple enjoys ongoing iPod demand, BBC News, January 18, 2006. Retrieved April 27, 2007.
+Jump up ^ Cantrell, Amanda. Apple's remarkable comeback story, CNN, March 29, 2006. Retrieved March 2, 2007.
+Jump up ^ Chacksfield, Marc (June 19, 2008). "iTunes hits 5 billion downloads". TechRadar. Future plc. Retrieved May 24, 2017.
+Jump up ^ Skillings, Jon (June 19, 2008). "Apple's iTunes hits 5 billion mark". CNET. Retrieved May 24, 2017.
+Jump up ^ Griggs, Brandon; Leopold, Todd (April 26, 2013). "How iTunes changed music, and the world". CNN. Retrieved May 24, 2017.
+Jump up ^ Arthur, Charles (April 28, 2013). "iTunes is 10 years old today. Was it the best idea Apple ever had?". The Guardian. Retrieved May 24, 2017.
+^ Jump up to: a b Apple to Use Intel Microprocessors Beginning in 2006, Apple Inc., June 6, 2005. Retrieved March 2, 2007.
+Jump up ^ Johnson, Bobbie (August 10, 2006). "Bye-bye Power Mac... hello Mac Pro". The Guardian. Retrieved March 23, 2017.
+Jump up ^ "Apple Unveils New MacBook Featuring Intel Core Duo Processors". May 16, 2006.
+Jump up ^ "In Major Shift, Apple Builds Its Own Team to Design Chips"Paid subscription required. The Wall Street Journal. April 30, 2009.
+Jump up ^ Hesseldahl, Arik (April 5, 2006). "News Flash: Apple Introduces 'Boot Camp' To Run Windows XP on Macs". BusinessWeek. Retrieved August 18, 2008.
+Jump up ^ Gamet, Jeff. Apple Passes Dell's Market Cap, MacObserver, January 16, 2006. Retrieved March 2, 2007.
+Jump up ^ Singh, Jai (October 6, 1997). "Dell: Apple should close shop". CNET. Retrieved March 23, 2017.
+Jump up ^ "Apple revamps iBook. Network World (May, 2001)", Network World, May 2, 2001. Retrieved August 19, 2008. Archived January 1, 2009, at the Wayback Machine.
+Jump up ^ Magee, Mike. "iMac "All-in-One" is a trinity", The Inquirer, January 26, 2002. Retrieved August 19, 2008.
+Jump up ^ "Drop the Computer". The Economist. Economist Group. January 11, 2007. Retrieved May 24, 2017.
+Jump up ^ "What's In A Name Change? Look At Apple". Forbes. January 25, 2007. Retrieved May 24, 2017.
+Jump up ^ "Apple Announces The iPhone". MacRumors. January 9, 2007. Retrieved May 24, 2017.
+Jump up ^ Arrington, Michael (January 9, 2007). "Apple Announces iPhone, Stock Soars". TechCrunch. AOL. Retrieved May 24, 2017.
+Jump up ^ "Apple Announces Apple TV (Formerly 'iTV')". MacRumors. January 9, 2007. Retrieved May 24, 2017.
+^ Jump up to: a b "Apple TV Coming to Your Living Room". Apple Inc. January 9, 2007. Retrieved May 24, 2017.
+Jump up ^ Miller, Paul (July 25, 2007). "Apple sold 270,000 iPhones in the first 30 hours". Engadget. Retrieved May 24, 2017.
+Jump up ^ Oyedele, Akin (March 21, 2016). "Here's how Apple shares do right after the new iPhone launches". Business Insider. Retrieved May 24, 2017.
+Jump up ^ "Apple Inc. Watch Shows 'Innovation Is Back'". Benzinga. Retrieved October 10, 2014.
+Jump up ^ Sandoval, Greg (April 16, 2007). "Apple exhibits Final Cut Studio 2". CNET. Retrieved March 23, 2017.
+Jump up ^ Block, Ryan (February 6, 2007). "A letter from Steve Jobs on DRM: let's get rid of it". Engadget. AOL. Retrieved March 23, 2017.
+Jump up ^ Dalrymple, Jim (April 2, 2007). "Apple, EMI offer higher-quality DRM free downloads". Playlist Magazine. Retrieved November 29, 2010.
+Jump up ^ "Changes Coming to the iTunes Store". Apple Inc. January 6, 2009. Retrieved March 23, 2014.
+Jump up ^ Flandez, Raymund (August 5, 2008). "Programmers Jockey for iPhone Users at Apple Site"Paid subscription required. The Wall Street Journal. Retrieved August 16, 2008.
+Jump up ^ McLaughlin, Kevin (August 11, 2008). "Apple's Jobs Gushes Over App Store Success". The Channel Wire. Archived from the original on March 1, 2010. Retrieved August 16, 2008.
+Jump up ^ Chen, Brian (October 21, 2008). "Jobs: Apple Is Third Largest Handset Supplier". Wired. Retrieved March 23, 2014.
+Jump up ^ "CHUNKIER SIDEKICK TO REPLACE JOBS AT MACWORLD". DoesWhat. December 16, 2008. Retrieved March 23, 2014.
+Jump up ^ "Apple Announces Its Last Year at Macworld" (Press release). Apple Inc. December 16, 2008. Retrieved March 23, 2014.
+Jump up ^ Steve Jobs (January 14, 2009). "Apple Media Advisory" (Press release). Apple Inc. Retrieved March 23, 2014.
+Jump up ^ "Apple Inc, Form 10-Q, Quarterly Report, Filing Date Apr 23, 2009". secdatabase.com. Retrieved March 8, 2013.
+Jump up ^ "Apple reports the best non-holiday quarter in its history". Betanews. April 22, 2009. Retrieved November 22, 2010.
+Jump up ^ "Apple Sells Over 300,000 iPads First Day" (Press release). Apple Inc. Archived from the original on April 9, 2010. Retrieved April 10, 2010.
+Jump up ^ "Apple passes Microsoft to be biggest tech company". BBC News. May 27, 2010. Archived from the original on May 29, 2010. Retrieved May 29, 2010.
+Jump up ^ "Apple Presents iPhone 4" (Press release). Apple Inc. Archived from the original on September 3, 2011.
+Jump up ^ Topolsky, Joshua (September 7, 2010). "iPod touch review (2010)". Engadget. AOL. Retrieved March 23, 2017.
+Jump up ^ Mintz, Jessica; Robertson, Jordan. "Apple unveils new TV box for renting movies, shows". Yahoo! News. Archived from the original on September 2, 2010. Retrieved September 2, 2010.
+Jump up ^ "Apple Reinvents iPod nano With Multi-Touch Interface" (Press release). Apple Inc. September 1, 2010. Archived from the original on November 15, 2010. Retrieved November 11, 2010.
+Jump up ^ Albanesius, Chloe (October 20, 2010). "Apple Unveils iLife 11 with New iPhoto, iMovie, GarageBand". PC Magazine. Ziff Davis. Retrieved April 18, 2017.
+Jump up ^ Madway, Gabriel (October 20, 2010). "Apple shows off iPad-inspired Mac laptop". Reuters. Retrieved April 18, 2017.
+Jump up ^ Ostrow, Adam (October 13, 2010). "Apple Shares Hit $300". Mashable. Retrieved April 18, 2017.
+Jump up ^ Muchmore, Michael (January 6, 2011). "Apple's Mac App Store: Hands On". PC Magazine. Retrieved January 6, 2011.
+Jump up ^ Michael Cieply (March 7, 2011). "A Film About Capitalism, and (Surprise) It's a Love Story". The New York Times. Retrieved November 8, 2014.
+Jump up ^ "Apple boss Steve Jobs takes 'medical leave'". BBC News. January 17, 2011. Archived from the original on January 19, 2011. Retrieved January 17, 2011.
+Jump up ^ Indvik, Lauren (May 9, 2011). "Apple Now World's Most Valuable Brand". Mashable.com. Retrieved October 7, 2011.
+Jump up ^ Helft, Miguel (June 6, 2011). "Apple Unveils a 'Cloud' Music and Storage Service". The New York Times. Retrieved June 7, 2011.
+Jump up ^ Gobry, Pascal-Emmanuel (July 4, 2011). "Apple's Exclusive Supply Chain Of Advanced Technology Is Literally Years Ahead Of Anyone Else On The Planet". Business Insider. Retrieved October 7, 2011.
+Jump up ^ Elmer, Philip (July 5, 2011). "How Apple became a monopsonist – Apple 2.0". Fortune Tech. CNN.com. Archived from the original on February 3, 2014. Retrieved October 7, 2011.
+^ Jump up to: a b "Apple's Supply-Chain Secret? Hoard Lasers". Bloomberg Businessweek. Archived from the original on November 4, 2011. Retrieved November 4, 2011. The iPhone maker spends lavishly on all stages of the manufacturing process, giving it a huge operations advantage
+Jump up ^ "Apple holding more cash than USA". BBC News. July 29, 2011. Retrieved October 7, 2011.
+Jump up ^ Primack, Doug. "Fallen Apple: Steve Jobs resigns". CNN. Archived from the original on September 26, 2011. Retrieved August 24, 2011.
+Jump up ^ "Meet Apple's Board of Directors". Ethiopian Review. August 25, 2011. Archived from the original on September 28, 2012. Retrieved October 7, 2011.
+Jump up ^ Griggs, Brandon (October 6, 2011). "Steve Jobs, Apple founder, dies". CNN. Retrieved March 27, 2017.
+Jump up ^ Hess, Ken (October 5, 2011). "October 5th, 2011. The day Apple died". ZDNet. CBS Interactive. Retrieved March 27, 2017.
+Jump up ^ "Apple Reinvents Textbooks with iBooks 2 for iPad – New iBooks Author Lets Anyone Create Stunning iBooks Textbooks" (Press release). Apple Inc. January 19, 2012. Retrieved February 22, 2012.
+Jump up ^ "Steve Jobs' Plans to Disrupt the Textbook Industry. How Disruptive Were They? | Inside Higher Ed". www.insidehighered.com. Retrieved November 10, 2017.
+Jump up ^ Ziegler, Chris (October 4, 2011). "iPhone 4S announced, available October 14th starting at $199". The Verge. Retrieved March 23, 2017.
+Jump up ^ Parr, Ben (October 4, 2011). "Apple Announces iPhone 4S". Mashable. Retrieved March 23, 2017.
+Jump up ^ Savov, Vlad (September 12, 2012). "Apple announces 4-inch iPhone 5 with LTE, Lightning connector, September 21st release date". The Verge. Retrieved March 23, 2017.
+Jump up ^ Shimpi, Anand Lal (September 12, 2012). "Apple iPhone 5: Announced". AnandTech. Purch Group. Retrieved March 23, 2017.
+Jump up ^ Mossberg, Walter (March 15, 2012). "New iPad: a Million More Pixels Than HDTV"Paid subscription required. The Wall Street Journal. Retrieved March 15, 2012.
+Jump up ^ Lowensohn, Josh (March 7, 2012). "Apple iPad live blog (Wednesday, March 7)". CNET. Retrieved March 23, 2017.
+^ Jump up to: a b Wood, Molly (October 23, 2012). "The new 'new iPad': Lightning strikes again". CNET. Retrieved March 23, 2017.
+^ Jump up to: a b Dudley-Nicholson, Jennifer (October 24, 2012). "Apple unveils new iPad Mini, updated iPad and new Macs". Herald Sun.
+Jump up ^ Stein, Scott (October 5, 2012). "Apple iPhone 5 review". CNET. Retrieved March 23, 2017.
+Jump up ^ "Apple Sells Three Million iPads in Three Days" (Press release). Apple Inc. November 5, 2012. Retrieved February 22, 2013.
+Jump up ^ Brown, Rich (November 11, 2013). "Apple Mac Mini with Fusion Drive review". CNET. Retrieved March 23, 2017.
+Jump up ^ Svensson, Peter. "Apple Sets Record for Company Value at $624B". Associated Press. Archived from the original on August 22, 2012. Retrieved August 20, 2012.
+Jump up ^ "Apple awarded $1bn in damages from Samsung in US court". BBC News. August 25, 2012. Retrieved August 25, 2012.
+^ Jump up to: a b "Judge strikes $450 million from $1 billion damages award in Apple v. Samsung: second trial needed". FOSS Patents. Retrieved March 1, 2013.
+Jump up ^ "HTC and Apple Settle Patent Dispute" (Press release). Apple Inc. November 10, 2012. Retrieved February 22, 2013.
+Jump up ^ Reisinger, Don (November 12, 2012). "Apple predicted to generate up to $280 million a year in HTC deal". CNET. Retrieved March 23, 2017.
+Jump up ^ Zachary M. Seward (April 5, 2014). "The Steve Jobs email that outlined Apple's strategy a year before his death". Quartz. Retrieved April 7, 2014.
+Jump up ^ "Apple's interactive augmented reality system identifies real-world objects, allows screen sharing".
+Jump up ^ Poornima Gupta (July 2, 2013). "Apple hires former Yves Saint Laurent CEO for 'special projects'". Reuters. Retrieved August 24, 2013.
+Jump up ^ Andrew Roberts (October 15, 2013). "Burberry Designer Bailey to Become CEO as Ahrendts Goes to Apple". Bloomberg L.P. Retrieved October 15, 2013.
+Jump up ^ Garside, Juliette (August 9, 2013). "Apple, Google and AT&T meet Obama to discuss NSA surveillance concerns". The Guardian. Retrieved March 23, 2017.
+Jump up ^ Tony Romm. "Apple's Tim Cook, tech executives meet with Barack Obama to talk surveillance". Politico. Politico LLC. Retrieved August 12, 2013.
+Jump up ^ Kerr, Dara (February 3, 2014). "Tim Cook lands in Turkey, could he be planning an iPad deal?". CNET. Retrieved March 23, 2017.
+Jump up ^ Etherington, Darrell (January 27, 2014). "Apple's 51M iPhones, 26M iPads And 4.8M Macs In Q1 2014 Set A Record, But Growth Slows". TechCrunch. AOL. Retrieved June 30, 2017.
+Jump up ^ Cunningham, Andrew (January 27, 2014). "Apple breaks revenue, iPhone, and iPad records in Q1 of 2014". Ars Technica. Retrieved June 30, 2017.
+Jump up ^ Steele, Billy (May 28, 2014). "Apple acquires Beats Electronics for $3 billion". Engadget. AOL. Retrieved March 23, 2017.
+Jump up ^ Welch, Chris (May 28, 2014). "Apple confirms it's buying Beats for $3 billion". The Verge. Retrieved March 23, 2017.
+Jump up ^ "2013 – Previous Years – Best Global Brands – Best Brands – Interbrand". Interbrand. Omnicom Group. Retrieved September 3, 2016.
+Jump up ^ "2014 – Previous Years – Best Global Brands – Best Brands – Interbrand". Interbrand. Omnicom Group. Retrieved September 3, 2016.
+Jump up ^ "2015 – Previous Years – Best Global Brands – Best Brands – Interbrand". Interbrand. Omnicom Group. Retrieved October 8, 2016.
+Jump up ^ "Rankings – 2016 – Best Global Brands – Best Brands – Interbrand". Interbrand. Omnicom Group. Retrieved October 8, 2016.
+Jump up ^ Statt, Nick (January 26, 2016). "1 billion Apple devices are in active use around the world". The Verge. Retrieved May 24, 2017.
+Jump up ^ Rossignol, Joe (January 26, 2016). "Apple Now Has Over 1 Billion Active Devices Worldwide". MacRumors. Retrieved May 24, 2017.
+Jump up ^ "Apple invests $1 billion in Chinese ride-hailing service Didi Chuxing". Reuters. May 13, 2016. Retrieved May 13, 2016.
+Jump up ^ Isaac, Mike; Goel, Vindu (May 12, 2016). "Apple Puts $1 Billion in Didi, a Rival to Uber in China". The New York Times. ISSN 0362-4331. Retrieved May 13, 2016.
+Jump up ^ Carew, Rick; Wakabayashi, Daisuke (May 13, 2016). "Apple Invests $1 Billion in Didi, Uber's Rival in China"Paid subscription required. The Wall Street Journal. ISSN 0099-9660. Retrieved May 13, 2016.
+Jump up ^ Efrati, Amir; Lee, Alfred (October 11, 2016). "Apple Took Board Seat at Didi Chuxing". The Information. Retrieved October 17, 2016.
+Jump up ^ Vincent, James (October 12, 2016). "After investing $1 billion, Apple takes a board seat at 'China's Uber'". The Verge. Retrieved March 23, 2017.
+Jump up ^ Stone, Brad; Chen, Lulu (October 6, 2016). "Uber Slayer: How China's Didi Beat the Ride-Hailing Superpower". Bloomberg. Retrieved October 17, 2016.
+^ Jump up to: a b c McBride, Sarah (June 6, 2016). "Apple leads Tech Industry in Fortune 500". Yahoo Tech. Retrieved June 6, 2016.
+Jump up ^ Phelan, David. "Clips, The Coolest, Most Fun Thing Apple Has Done In A Long While". Forbes. Retrieved April 7, 2017.
+Jump up ^ Mayo, Benjamin (May 25, 2017). "Apple transitions to Newsroom portal for press releases, updates executive bios page design". 9to5Mac. Retrieved May 25, 2017.
+Jump up ^ Gartenberg, Chaim (June 5, 2017). "Apple announces HomePod speaker to take on Sonos". The Verge. Vox Media. Retrieved December 14, 2017.
+Jump up ^ Lunden, Ingrid; Roof, Katie (December 8, 2017). "Sources: Apple is acquiring music recognition app Shazam". TechCrunch. Oath Inc. Retrieved December 14, 2017.
+Jump up ^ Singleton, Micah (December 11, 2017). "Apple confirms it has acquired Shazam". The Verge. Vox Media. Retrieved December 14, 2017.
+Jump up ^ Sloan, Paul (September 12, 2012). "Apple by the numbers: 84M iPads, 400M iOS devices, 350M iPods sold". CNET. Retrieved March 23, 2017.
+Jump up ^ Welch, Chris (July 27, 2017). "Apple confirms iPod nano and iPod shuffle have been discontinued". The Verge. Retrieved September 3, 2017.
+Jump up ^ Heater, Brian (July 27, 2017). "Apple discontinues iPod nano and shuffle and doubles iPod touch capacities to 32GB and 128GB". TechCrunch. AOL. Retrieved September 3, 2017.
+Jump up ^ Rossignol, Joe (July 27, 2017). "Apple Discontinues iPod Nano and iPod Shuffle". MacRumors. Retrieved September 3, 2017.
+Jump up ^ Apple's Chief in the Risky Land of the Handhelds The New York Times
+^ Jump up to: a b "Apple Reinvents the Phone with iPhone" (Press release). Apple Inc. January 9, 2007. Retrieved October 7, 2011.
+Jump up ^ "iPhone Premieres This Friday Night at Apple Retail Stores" (Press release). Apple Inc. Retrieved October 7, 2011.
+Jump up ^ "Apple Adds New iPhone & iPod touch Models" (Press release). Apple Inc. February 5, 2008. Retrieved September 8, 2009.
+Jump up ^ "Apple Introduces the New iPhone 3G" (Press release). Apple Inc. June 9, 2008. Retrieved October 7, 2011.
+Jump up ^ Apple's Game Changer, Downloading Now. The New York Times, December 5, 2009. Retrieved April 5, 2013.
+Jump up ^ "Apple's Revolutionary App Store Downloads Top One Billion in Just Nine Months". Apple Inc. April 24, 2009. Archived from the original on June 5, 2011. Retrieved October 7, 2011.
+Jump up ^ Griggs, Brandon; Sutter, John D. (June 8, 2010). "Apple unveils iPhone 4, 'biggest leap we've taken' since first model". CNN. Archived from the original on July 8, 2010. Retrieved July 5, 2010.
+Jump up ^ Ward, Andrew (July 21, 2011). "Apple overtakes Nokia in smartphone stakes"Paid subscription required. Financial Times. Retrieved July 21, 2011.
+Jump up ^ "iPhone 4S Availability". OS X Daily. Retrieved October 19, 2011.
+Jump up ^ "Siri acquired by Apple; iPhone becomes the Virtual Personal Assistant?". ZDNet. Archived from the original on October 16, 2011. Retrieved October 19, 2011.
+Jump up ^ "About Hearing Aid Compatibility (HAC) requirements for iPhone – Apple Support". support.apple.com. Retrieved April 3, 2016.
+Jump up ^ "Use Live Listen with Made for iPhone hearing aids – Apple Support". support.apple.com. Retrieved April 3, 2016.
+Jump up ^ "iPhone 4S First Weekend Sales Top Four Million". Apple Inc. Retrieved October 14, 2011.
+Jump up ^ Statistics and Facts about the iPhone. Statista, April 2013.
+Jump up ^ Moscartello, Angela (February 20, 2013). "iPhone 5 is World's Best-Selling Smartphone". PC Magazine.
+Jump up ^ "iPhone 5 Pre-Orders Top Two Million in First 24 Hours". Apple Inc. Retrieved January 1, 2013.
+Jump up ^ "iPhone 5 First Weekend Sales Top Five Million". Apple Inc. Retrieved January 1, 2013.
+Jump up ^ "Apple Sells 9 Million New iPhones In Opening Weekend". NPR. Retrieved September 23, 2013.
+Jump up ^ Poornima Gupta; Jennifer Saba (September 23, 2013). "Apple polishes forecast after selling 9 million new iPhones". Reuters. Retrieved September 24, 2013.
+Jump up ^ Etherington, Darrell (July 25, 2013). "Apple Working On Location-Aware Battery Management For iPhone". TechCrunch. AOL. Retrieved June 25, 2017.
+Jump up ^ Cunningham, Andrew (September 9, 2014). "Apple announces iPhone 6, iPhone 6 Plus". Ars Technica. Retrieved March 23, 2017.
+Jump up ^ Cunningham, Andrew (September 9, 2015). "Apple announces iPhone 6S and 6S Plus for $199 and $299 on-contract". Ars Technica. Retrieved March 23, 2017.
+Jump up ^ Hern, Alex; Kiss, Jemima (March 21, 2016). "Key points of Apple's iPhone SE launch at a glance". The Guardian. Retrieved March 23, 2017.
+Jump up ^ Welch, Chris (July 27, 2016). "Apple has sold over 1 billion iPhones". The Verge. Retrieved May 24, 2017.
+Jump up ^ Clover, Juli (July 27, 2016). "Apple Has Sold 1 Billion iPhones". MacRumors. Retrieved May 24, 2017.
+Jump up ^ Seifert, Dan (September 7, 2016). "iPhone 7 and 7 Plus announced with water resistance, dual cameras, and no headphone jack". The Verge. Retrieved March 23, 2017.
+Jump up ^ Patel, Nilay (June 21, 2016). "Taking the headphone jack off phones is user-hostile and stupid". The Verge. Retrieved March 23, 2017.
+Jump up ^ Gartenberg, Chaim (September 12, 2017). "iPhone 8 and 8 Plus announced with wireless charging, True Tone display, A11 Bionic processor". The Verge. Retrieved October 11, 2017.
+Jump up ^ Savov, Vlad (September 12, 2017). "iPhone X announced with edge-to-edge screen, Face ID, and no home button". The Verge. Retrieved October 11, 2017.
+Jump up ^ Crook, Jordan (September 12, 2017). "This is the iPhone X". TechCrunch. AOL. Retrieved October 11, 2017.
+Jump up ^ Rose, Michael (January 27, 2013). "January 27, 2010: Apple announces the iPad". Engadget. AOL. Retrieved April 18, 2017.
+Jump up ^ Foresman, Chris (January 27, 2010). "Apple announces the iPad". Ars Technica. Retrieved April 18, 2017.
+Jump up ^ "Apple Launches iPad". Apple Press Info. Apple Inc. January 27, 2010. Retrieved April 18, 2017.
+Jump up ^ "Apple Tablet Media Event Today: "Come See Our Latest Creation"". MacRumors. January 27, 2010. Archived from the original on January 30, 2010. Retrieved January 27, 2010.
+Jump up ^ Tony Bradley (January 29, 2010). "AT&T Beefing Up Network for iPad and iPhone". PC World. Archived from the original on February 1, 2010. Retrieved January 29, 2010.
+Jump up ^ Helft, Miguel (March 2, 2011). "Jobs Returns to Introduce a New iPad". The New York Times. Retrieved March 23, 2011.
+Jump up ^ Martin, Mel (March 18, 2011). "iPad 2 supply line affected by Japan disaster". TUAW – The Unofficial Apple Weblog. Retrieved October 7, 2011.
+Jump up ^ The new iPad – View all the technical specifications. Apple Inc. Retrieved February 7, 2013.
+Jump up ^ iPad – Features. Apple Inc. Retrieved February 7, 2013.
+Jump up ^ iPad Mini – Features. Apple Inc. Retrieved February 7, 2013.
+^ Jump up to: a b "iPad". Apple. Retrieved January 1, 2014.
+Jump up ^ Ingraham, Nathan (June 8, 2015). "Apple's App Store has passed 100 billion app downloads". The Verge. Retrieved March 23, 2017.
+Jump up ^ Geuss, Megan (September 9, 2015). "Apple's new iPad Pro is an expansive 12.9 inches, available in November". Ars Technica. Retrieved March 23, 2017.
+Jump up ^ Savov, Vlad (September 9, 2015). "iPad mini 4 announced at $399, iPad mini 2 now starts at $269". The Verge. Retrieved June 27, 2017.
+Jump up ^ Machkovech, Sam (March 21, 2016). "Behold, the new iPad Pro—now 9.7 inches with "True Tone" display". Ars Technica. Retrieved March 23, 2017.
+Jump up ^ Painter, Lewis. "All the announcements from WWDC 2017". Macworld UK. Retrieved June 24, 2017.
+Jump up ^ "Apple Watch is 'world's best selling wearable' with 4.2 million shifted in Q2".
+Jump up ^ Garun, Natt (September 9, 2014). "Everything Apple announced at its September 2014 keynote". The Next Web. Retrieved March 23, 2017.
+Jump up ^ Savov, Vlad (September 9, 2014). "Apple Watch announced: available for $349 early next year". The Verge. Retrieved March 23, 2017.
+Jump up ^ Machkovech, Sam (March 9, 2015). "Apple Watch starts at $349, launching April 24". Ars Technica. Retrieved March 23, 2017.
+Jump up ^ Gibbs, Samuel; Hern, Alex (March 9, 2015). "Apple Watch: available 24 April for between $349 and $17,000". The Guardian. Retrieved March 23, 2017.
+Jump up ^ Kastrenakes, Jacob (March 9, 2015). "Apple Watch release date is April 24th, with pricing from $349 to over $10,000". The Verge. Retrieved March 23, 2017.
+Jump up ^ Dillet, Romain (September 7, 2016). "Apple unveils the Apple Watch Series 2". TechCrunch. AOL. Retrieved October 11, 2017.
+Jump up ^ Etherington, Darrell (September 12, 2017). "The Apple Watch Series 3 comes with LTE connectivity". TechCrunch. AOL. Retrieved October 11, 2017.
+Jump up ^ Morse, Jack (September 13, 2017). "An iPhone is required to get the new Apple Watch with LTE connectivity working". Mashable. Retrieved October 11, 2017.
+Jump up ^ "Apple Announces iTunes 7 with Amazing New Features". Apple Inc. September 12, 2006. Archived from the original on May 15, 2011. Retrieved October 7, 2011.
+Jump up ^ "YouTube Coming to Apple TV" (Press release). Apple Inc. May 30, 2007. Retrieved October 7, 2011.
+Jump up ^ "Apple Introduces New Apple TV Software & Lowers Price to $229" (Press release). Apple Inc. January 15, 2008. Retrieved October 7, 2011.
+Jump up ^ Miller, Ross (September 29, 2010). "Apple TV teardown reveals 8GB flash storage, 256MB RAM, leftover iPad parts". Engadget. AOL. Retrieved March 23, 2017.
+Jump up ^ "This iFixit teardown shows the HomePod is built like a tank". The Verge. Retrieved 2018-02-14.
+Jump up ^ Ong, Thuy (2017-07-31). "HomePod firmware reveals more secrets of Apple's smart speaker". The Verge. Retrieved 2017-09-03.
+Jump up ^ "HomePod Review: Only Apple Devotees Need Apply". Wired.com. Retrieved 2018-02-14.
+Jump up ^ Statt, Nick (September 7, 2016). "Apple to release macOS Sierra on September 20th". The Verge. Retrieved June 9, 2017.
+Jump up ^ Warren, Tom (September 7, 2016). "iOS 10 will be available on September 13th". The Verge. Retrieved June 9, 2017.
+Jump up ^ Tepper, Fitz (June 13, 2016). "Apple overhauls watchOS with new UI and faster app launching". TechCrunch. AOL. Retrieved June 9, 2017.
+Jump up ^ Dillet, Romain (September 13, 2016). "Apple just released tvOS 10 and here's what's new". TechCrunch. AOL. Retrieved June 9, 2017.
+Jump up ^ "iWork". Apple Inc. Retrieved June 9, 2017.
+Jump up ^ Clover, Juli (April 13, 2017). "iMovie and Final Cut Pro for Mac Get Bug Fixes in New Updates". MacRumors. Retrieved June 9, 2017.
+Jump up ^ Griffin, Andrew (January 19, 2017). "Apple releases huge updates for music apps GarageBand and Logic Pro X". The Independent. Retrieved June 9, 2017.
+^ Jump up to: a b Broussard, Mitchel (September 20, 2016). "macOS Server Updated for Sierra With New Setup Assistant Options and More". MacRumors. Retrieved June 9, 2017.
+Jump up ^ Cunningham, Andrew (January 28, 2015). "Apple Remote Desktop admin tool is updated for the first time in forever". Ars Technica. Retrieved June 9, 2017.
+Jump up ^ "iCloud". MacRumors. Retrieved June 9, 2017.
+Jump up ^ "Apple Music". MacRumors. Retrieved June 9, 2017.
+Jump up ^ Apple wants to start making cars as soon as 2020, Tim Higgins, Sydney Morning Herald
+Jump up ^ Weaver, John Fitzgerald (June 10, 2016). "Apple Energy deeper dive: Is this Apple running its own microgrids or more?". Electrek. Retrieved June 12, 2016.
+Jump up ^ Weintraub, Seth (June 9, 2016). "Apple has just become an energy company, looks to sell excess electricity into the grid and maybe more". 9to5Mac. Retrieved June 12, 2016.
+Jump up ^ "Catawba County approves lease for Apple's renewable energy center". HDR | Hickory Daily Record. Retrieved June 12, 2016.
+Jump up ^ Lovejoy, Ben (June 10, 2016). "As Apple moves into the energy business, it gets approval to turn landfill gas into power". 9to5Mac. Retrieved June 14, 2016.
+^ Jump up to: a b c d "Logo Evolution: How Top Brands Redesigned Logos and Boosted Conversion". Vardot. Retrieved April 9, 2017.
+Jump up ^ "Steve Jobs bio says Apple CEO abhorred 'corrupt' execs". CBC News. October 20, 2011. Retrieved October 21, 2011.
+Jump up ^ "Wired News: Apple Doin' the Logo-Motion". September 26, 2003.
+Jump up ^ "ZLOK Logo Design Blog: I Invented ... the Apple Logo".
+^ Jump up to: a b c Raszl, Ivan. "Interview with Rob Janoff, designer of the Apple logo".
+Jump up ^ "Logos that became legends: Icons from the world of advertising". The Independent. UK. January 4, 2008. Archived from the original on October 3, 2009. Retrieved September 14, 2009.
+Jump up ^ "Archived Interview with Rob Janoff". March 14, 2005. Archived from the original on March 14, 2005.
+Jump up ^ Leavitt, David (2007). The Man Who Knew Too Much; Alan Turing and the invention of the computer. Phoenix. p. 280. ISBN 978-0-7538-2200-5.
+Jump up ^ "Apple Computer". Web.archive.org. August 27, 1999. Archived from the original on August 27, 1999. Retrieved January 1, 2014.
+Jump up ^ "The Lost Apple Logos You've Never Seen". thebrainfever.
+Jump up ^ Moses, Asher (October 7, 2011). "Who was Steve Jobs the man?". The Age. Melbourne. Retrieved October 7, 2011.
+Jump up ^ "Tearful memories for Apple co-founder". The Age. Melbourne. Archived from the original on October 8, 2011. Retrieved October 7, 2011.
+Jump up ^ Flynn, Laurie J. (February 6, 2007). "After Long Dispute, Two Apples Work It Out". The New York Times. Retrieved October 21, 2016.
+Jump up ^ "Apple Company". Operating System Documentation Project. Operating System Documentation Project. December 10, 2007. Archived from the original on September 21, 2008. Retrieved August 18, 2008.
+Jump up ^ "Apple Think Different Campaign". The Inspiration Room Daily. Retrieved August 12, 2008.
+Jump up ^ "MacWorld New York: I think, therefore iMac". Retrieved August 13, 2008.
+Jump up ^ "BillDay.com " Say hello to iPhone". Archived from the original on September 7, 2008. Retrieved August 13, 2008.
+Jump up ^ "IMac: What's in a Design, Anyway?". Wired. January 11, 2002. Archived from the original on March 4, 2014. Retrieved February 15, 2010.
+Jump up ^ Williams, Ian (June 13, 2007). "UK watchdog clears Apple ads". Computing. Incisive Media Ltd. Archived from the original on January 10, 2008. Retrieved April 18, 2017.
+Jump up ^ "Apple Power Mac ads 'misleading'". BBC News. June 11, 2004. Retrieved April 18, 2017.
+^ Jump up to: a b Farber, Jim. Apple ad creates recognition for Yael Naim, New York Daily News, March 11, 2008.
+Jump up ^ Liptak, Andrew (September 30, 2017). "Apple's new iPhone 8 Plus ad showcases its Portrait Lighting feature". The Verge. Retrieved October 11, 2017.
+Jump up ^ Hall, Zac (February 17, 2017). "Apple launches whimsical iPad Pro ad campaign based on PC user tweets". 9to5Mac. Retrieved October 11, 2017.
+Jump up ^ Riley, Alex (May 16, 2011). "Superbrands' success fuelled by sex, religion and gossip". BBC News. Retrieved December 28, 2011.
+Jump up ^ Lemmons, Phil (December 1984). "Apple and Its Personal Computers". BYTE. p. A4.
+Jump up ^ McConnell, Ben; Huba, Jackie. "The father of evangelism marketing". Creating Customer Evangelists. Archived from the original on July 25, 2003. Retrieved April 18, 2017.
+^ Jump up to: a b Webb, Alex; Gurman, Mark; Satariano, Adam (September 16, 2016). "The Apple Store Line Is Dying"Paid subscription required. Bloomberg L.P. Retrieved May 25, 2017.
+^ Jump up to: a b Kalb, Ira (September 9, 2014). "The Truth Behind The Giant Apple Store Lines". Business Insider. Retrieved May 25, 2017.
+^ Jump up to: a b Rossignol, Joe (September 24, 2015). "iPhone 6s Lines Forming at Apple Stores Ahead of Launch Day". MacRumors. Retrieved May 25, 2017.
+^ Jump up to: a b Rossignol, Joe (September 19, 2015). "Apple's Beautiful New Store in Brussels Opens to Long Lines and Fanfare". MacRumors. Retrieved May 25, 2017.
+Jump up ^ Evans, Jonny (May 22, 2006). "Apple NY opening makes global headlines". Macworld. International Data Group. Retrieved May 25, 2017.
+Jump up ^ Ng, Yi Shu (June 14, 2017). "Till death do us dongle: Newlyweds take their Apple obsession to the next level". Mashable. Retrieved June 16, 2017.
+Jump up ^ Lang, Cady (June 14, 2017). "This Tech-Obsessed Couple Took Their Wedding Photos in an Apple Store". Time. Retrieved June 16, 2017.
+Jump up ^ "Confessions of an Apple fanboy: I'm going to miss the queues". The Guardian. April 8, 2015. Retrieved March 23, 2017.
+Jump up ^ Gibbs, Samuel (April 7, 2015). "Is the Apple queue dead? A leaked memo suggests it could be". The Guardian. Retrieved March 23, 2017.
+Jump up ^ Fisher, Anne (March 17, 2008). "America's Most Admired Companies". Fortune. 157 (5): 65–67.
+Jump up ^ Colvin, Geoff (March 16, 2009). "The World's Most Admired Companies 2009". Fortune. 159 (5): 76.
+Jump up ^ "World's Most Admired Companies". Fortune. March 2010. Archived from the original on March 7, 2010. Retrieved March 7, 2010.
+Jump up ^ "World's Most Admired Companies". Fortune. Nov 2011. Retrieved November 10, 2011.
+Jump up ^ "The World's Most Admired Companies". Fortune. 165 (4): 139–140. March 19, 2012.
+Jump up ^ Stuart Elliot (September 29, 2013). "Apple Passes Coca-Cola as Most Valuable Brand". The New York Times. Retrieved October 21, 2013.
+Jump up ^ Is Apple The World's Most Innovative Company (Still)?, Forbes, September 27, 2013
+Jump up ^ Sandberg-Diment, Erik (March 19, 1985). "Apple Might Learn a Thing or Two from I.B.M." The New York Times. p. C4. ISSN 0362-4331. Retrieved July 3, 2017.
+Jump up ^ "Wired News: Apple: It's All About the Brand". December 4, 2002. Archived from the original on November 13, 2014.
+Jump up ^ Fried, Ian (July 12, 2002). "Are Mac users smarter?". CNET. Archived from the original on July 6, 2009. Retrieved March 23, 2017.
+Jump up ^ "Computer Ownership Statistics". The NPD Group. October 5, 2009. Retrieved November 22, 2010.
+Jump up ^ "Apple celebrates Martin Luther King Jr. Day with homepage photo & timely quote". Retrieved January 15, 2018.
+Jump up ^ "Apple and Tim Cook Honor Dr. Martin Luther King, Jr". Retrieved January 16, 2017.
+Jump up ^ "Apple homepage pays tribute to Muhammad Ali, The Greatest of All Time – MacDailyNews – Welcome Home". Retrieved June 5, 2016.
+Jump up ^ "Apple Website Honors Bill Campbell". Retrieved April 19, 2016.
+Jump up ^ "Apple Honors Dr. Martin Luther King Jr. With Homepage Tribute". Retrieved January 18, 2016.
+Jump up ^ Joe Berkowitz (August 13, 2014). "APPLE'S MINIMALIST SALUTE TO ROBIN WILLIAMS SAYS ALL IT NEEDS TO". Fast Company Co.Create. Mansueto Ventures, LLC. Retrieved September 15, 2014.
+Jump up ^ "Apple commemorates Martin Luther King on its homepage, encouraging employees to volunteer through gift matching". Retrieved January 19, 2015.
+Jump up ^ Steve Kovach (December 7, 2013). "Apple's Home Page Is A Tribute To Nelson Mandela". Business Insider. Business Insider, Inc. Retrieved September 15, 2014.
+Jump up ^ "Apple Posts Steve Jobs Tribute: "His Spirit Will Forever Be The Foundation Of Apple"". Retrieved October 5, 2012.
+Jump up ^ Nick Wingfield (October 5, 2012). "With Steve Jobs Tribute, a Home Page Reflects Apple's Founder Again". The New York Times. Retrieved September 15, 2014.
+Jump up ^ Jennifer Van Grove (March 18, 2010). "Apple Pays Tribute to Board Member Jerome B. York". Mashable. Mashable.
+Jump up ^ Cheng, Jacqui (October 12, 2007). "Apple "bursting with pride" over Al Gore's Peace Prize". Ars Technica. Retrieved March 23, 2017.
+Jump up ^ Fried, Ina (October 26, 2005). "Apple pays tribute to Rosa Parks". CNET. Retrieved March 23, 2017.
+Jump up ^ Bryan Chaffin (August 11, 2003). "Apple Remembers Gregory Hines With Think Different Home Page (With Screen Shot)". The Mac Observer. The Mac Observer, Inc. Retrieved September 15, 2014.
+Jump up ^ "When Steve Jobs and Apple put George Harrison on the Apple.com homepage". Edible Apple. Edible Apple. September 15, 2011. Retrieved September 15, 2014.
+Jump up ^ Simonson, Sharon (October 2, 2005). "Apple gobbles up Cupertino office space".
+Jump up ^ "2014: Apple to occupy seven-building Sunnyvale campus". mercurynews.com.
+Jump up ^ "Project Titan, SixtyEight & SG5: Inside Apple's top-secret electric car project". appleinsider.com.
+Jump up ^ "The Bay Area: Apple Inc". traveldk.com. Dorling Kindersley Limited. Archived from the original on June 18, 2008. Retrieved May 7, 2008.
+Jump up ^ "Apple's New Headquarters Will Be Designed by Norman Foster". Inhabitat. Retrieved June 9, 2010.
+^ Jump up to: a b Reisinger, Don (October 16, 2013). "Apple's 'spaceship' HQ gets green light from Cupertino". CNET. Retrieved March 23, 2017.
+Jump up ^ Reisinger, Don (September 1, 2016). "Where Apple Has Quietly Built Its Biggest Campus". Fortune. Time Inc. Retrieved July 14, 2017.
+Jump up ^ Goel, Vindu (November 20, 2016). "How Apple Empowers, and Employs, the American Working Class". The New York Times. Retrieved July 14, 2017.
+Jump up ^ "Apple to create 500 jobs in Cork". BBC News. April 20, 2012. Retrieved April 21, 2012.
+^ Jump up to: a b Humphries, Conor (April 20, 2012). "Reuters News Article Discussing Addition of 500 new jobs to Apple's European Headquarters". Reuters. Archived from the original on June 18, 2012. Retrieved April 21, 2012.
+Jump up ^ "Job Description on Apple Website describing Apple's EMEA headquarters". Apple Website. Archived from the original on September 1, 2007. Retrieved April 18, 2012.
+Jump up ^ Riegel, Ralph; Walsh, Anne-Marie (April 21, 2012). "Irish Independent Article Discussing Addition of 500 new jobs to Apple's EMEA Headquarters". Irish Independent. Retrieved April 21, 2012.
+Jump up ^ "Article from the Irish Examiner Describing Cork as Apple's European Headquarters". Irish Examiner. Retrieved April 18, 2012.
+Jump up ^ Roche, Barry. "Article from the Irish Times Describing Cork as Apple's European Headquarters". Irish Times. Retrieved April 18, 2012.
+Jump up ^ "Article from the Belfast Telegraph Describing Cork as Apple's European Headquarters". Belfast Telegraph. Retrieved April 18, 2012.
+Jump up ^ "Irish Examiner Article". Irish Examiner. Retrieved April 21, 2012.
+Jump up ^ "Bloomberg Businessweek Profile of Apple Sales International". Bloomberg Business Week. Retrieved April 18, 2012.[verification needed]
+Jump up ^ "Apple's Irish website with contact information for Apple Distribution International at Cork". Apple Website. Retrieved April 18, 2012.
+Jump up ^ "AFP Article on France 24 website discussing addition of 500 jobs". AFP. Retrieved April 21, 2012.[dead link]
+Jump up ^ O'Brien, Ciara. "Irish Times Article Discussing Addition of 500 new jobs to Apple's European Headquarters". Irish Times. Archived from the original on April 21, 2012. Retrieved April 21, 2012.
+Jump up ^ "Our Occupiers". Stockley Park. Retrieved November 22, 2015.
+Jump up ^ "Apple CEO Tim Cook to inaugurate new Israeli headquarters next week". The Jerusalem Post - JPost.com. Retrieved February 12, 2015.
+Jump up ^ "Tim Cook reportedly headed to Israel for opening of new Apple offices". 9to5Mac. Retrieved February 12, 2015.
+Jump up ^ Donato-Weinstein, Nathan (December 14, 2015). "Exclusive: Apple buys former chip fab in North San Jose". Silicon Valley Business Journals. Advance Publications. Retrieved June 30, 2017.
+Jump up ^ Dilger, Daniel Eran (December 14, 2015). "Apple buys former Maxim chip fab in North San Jose, neighboring Samsung Semiconductor". AppleInsider. Retrieved June 30, 2017.
+^ Jump up to: a b "Apple to Open 25 Retail Stores in 2001" (Press release). Apple. May 15, 2001. Retrieved May 27, 2017.
+^ Jump up to: a b c "Apple Stores". MacRumors. Retrieved May 27, 2017.
+Jump up ^ Fiegerman, Seth (May 16, 2014). "The Slow Evolution of Apple's Online Store". Mashable. Retrieved May 27, 2017.
+^ Jump up to: a b Useem, Jerry (March 8, 2007). "Apple: America's best retailer". Fortune. Time Inc. Retrieved May 27, 2017.
+Jump up ^ "Store List". Apple Retail. Apple Inc. Retrieved December 5, 2017.
+^ Jump up to: a b c d Segal, David (June 23, 2012). "Apple's Retail Army, Long on Loyalty but Short on Pay". The New York Times. Retrieved May 27, 2017.
+Jump up ^ Webb, Alex (May 19, 2016). "Inside the New Apple Retail Store Design"Paid subscription required. Bloomberg L.P. Retrieved April 26, 2017.
+Jump up ^ Statt, Nick (May 19, 2016). "Apple just revealed the future of its retail stores". The Verge. Retrieved May 27, 2017.
+Jump up ^ Hartmans, Avery (August 19, 2016). "Apple's retail boss wants Apple stores to resemble 'town squares'". Business Insider. Retrieved May 27, 2017.
+Jump up ^ "Angela Ahrendts talks Apple store makeover, why Tim Cook hired her". CBS This Morning. CBS. April 25, 2017. Retrieved May 27, 2017.
+Jump up ^ Rossignol, Joe (August 19, 2016). "Apple Opening Three Next-Generation Stores Over the Next Week". MacRumors. Retrieved May 27, 2017.
+Jump up ^ Rossignol, Joe (February 6, 2017). "Apple Retail Update: Danbury Store Closes for Next-Generation Redesign, Dubai to Get Second Store". MacRumors. Retrieved May 27, 2017.
+Jump up ^ Panzarino, Matthew (April 19, 2012). "Apple out to patent curved glass panels used in Shanghai Retail Store". The Next Web. Retrieved May 27, 2017.
+Jump up ^ Simpson, Stephen D. (October 8, 2012). "How Apple's fortunes affect other stocks". The Globe and Mail. The Woodbridge Company. Retrieved May 27, 2017.
+Jump up ^ Crothers, Brooke (March 29, 2012). "Is Best Buy following CompUSA, Circuit City to certain doom?". CNET. Retrieved May 27, 2017.
+Jump up ^ Edwards, Jim (May 28, 2016). "NEVER MIND THE DEATH THREATS: An Apple Store worker tells us what it's really like working for Apple". Business Insider. Retrieved May 27, 2017.
+Jump up ^ Deutschman, Alan. "The once and future Steve Jobs". Salon.com. Archived from the original on December 2, 2010. Retrieved November 22, 2010.
+^ Jump up to: a b Lashinsky, Adam (August 25, 2011). "How Apple works: inside the world's largest startup". Fortune.
+Jump up ^ Brownlee, John (July 7, 2010). "What It's Like To Work At Apple".
+^ Jump up to: a b c d Hertzfeld, Andy. Credit Where Due,Folklore.org, January 1983. Retrieved May 26, 2006.
+Jump up ^ "Newton Hall of Fame!".
+^ Jump up to: a b c Eisenhart, Mary. Fighting Back For Mac, MicroTimes, 1997. Retrieved May 26, 2006.
+Jump up ^ Hertzfeld, Andy. Leave of Absence,Folklore.org, March 1984. Retrieved May 26, 2006.
+Jump up ^ Kawakami, John. Apple Taps Guy Kawasaki For Apple Fellows Program, MacTech, September 1995. Retrieved May 26, 2006.
+Jump up ^ Montfort, Nick. "Wired 4.10: Spawn of Atari".
+Jump up ^ Lashinsky, Adam. "How Apple works: Inside the world's biggest startup – Fortune Tech". Tech.fortune.cnn.com. Retrieved December 24, 2011.
+Jump up ^ Lashinsky, Adam (October 29, 2012). "Inside Apple's major shakeup". Fortune. Retrieved December 10, 2012.
+Jump up ^ "Apple CEO gets modest 2012 pay after huge 2011". December 27, 2012.
+Jump up ^ Leswing, Kif (October 27, 2016). "Apple added only 6,000 people last year — its slowest growth since 2009". Business Insider. Retrieved May 29, 2017.
+Jump up ^ "BRIEF-Apple says had 123,000 full-time employees as of Sept. 30". Reuters. November 3, 2017. Retrieved November 9, 2017.
+Jump up ^ Turton, William (June 20, 2017). "Leaked recording: Inside Apple's global war on leakers". The Outline. Retrieved June 20, 2017.
+Jump up ^ Deahl, Dani (June 20, 2017). "Internal Apple presentation on how to handle leaks gets leaked". The Verge. Retrieved June 20, 2017.
+Jump up ^ Mayo, Benjamin (June 20, 2017). "Report details Apple's efforts to increase product secrecy, more leaks from Apple campus than supply chain in 2016". 9to5Mac. Retrieved June 20, 2017.
+Jump up ^ Lovejoy, Ben (December 6, 2017). "Facebook named Glassdoor's 'best place to work' as Apple falls 48 places to #84". 9to5Mac. Retrieved December 14, 2017.
+Jump up ^ Rossignol, Joe (December 6, 2017). "Apple Plummets to Lowest Ranking Ever in Glassdoor's Annual List of Best Places to Work". MacRumors. Retrieved December 14, 2017.
+Jump up ^ Ricker, Thomas (September 7, 2016). "First Click: Apple's greatest innovation is its ecosystem". The Verge. Retrieved October 8, 2016.
+Jump up ^ Mickle, Tripp (June 7, 2017). "'I'm Not Sure I Understand'—How Apple's Siri Lost Her Mojo". The Wall Street Journal. Dow Jones & Company. Retrieved December 14, 2017.
+Jump up ^ Hardwick, Tim (June 8, 2017). "Apple's Concern With User Privacy Reportedly Stifling Siri Development". MacRumors. Retrieved December 14, 2017.
+Jump up ^ Greenberg, Andy (November 28, 2017). "Anyone can hack macOS High Sierra just by typing "root"". Wired. Retrieved December 5, 2017.
+Jump up ^ Welch, Chris (November 28, 2017). "Major Apple security flaw grants admin access on macOS High Sierra without password". The Verge. Vox Media. Retrieved December 5, 2017.
+Jump up ^ Rossignol, Joe (November 29, 2017). "Apple Releases macOS High Sierra Security Update to Fix Root Password Vulnerability". MacRumors. Retrieved December 5, 2017.
+Jump up ^ Welch, Chris (November 29, 2017). "Apple releases update to fix critical macOS High Sierra security issue". The Verge. Vox Media. Retrieved December 5, 2017.
+Jump up ^ Greenberg, Andy (December 1, 2017). "macOS update accidentally undoes Apple's "root" bug patch". Wired. Retrieved December 5, 2017.
+Jump up ^ Clover, Juli (December 1, 2017). "Date Bug in iOS 11.1.2 Causing Crash Loop on iPhones as December 2 Hits [Updated]". MacRumors. Retrieved December 5, 2017.
+Jump up ^ Ritchie, Rene (December 2, 2017). "iPhone crashing on Dec. 2? Here's the fix!". iMore. Mobile Nations. Retrieved December 5, 2017.
+Jump up ^ Dillet, Romain (December 2, 2017). "Apple releases iOS 11.2 with 'I.T' autocorrect fix, faster wireless charging and Apple Pay Cash". TechCrunch. Oath Inc. Retrieved December 5, 2017.
+Jump up ^ Lawler, Richard (December 2, 2017). "Apple releases iOS 11.2 with Apple Pay Cash and a bug fix". Engadget. Oath Inc. Retrieved December 5, 2017.

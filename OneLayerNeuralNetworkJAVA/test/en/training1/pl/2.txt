@@ -1,0 +1,191 @@
+Microsoft[edytuj]
+Microsoft Corporation
+Logo Microsoft Corporation
+Ilustracja
+Budynek nr 17, Microsoft Campus w Redmond
+Panstwo	 Stany Zjednoczone
+Siedziba	Redmond, Waszyngton
+Data zalozenia	4 kwietnia 1975
+Forma prawna	spólka publiczna
+Zalozyciele	Bill Gates, Paul Allen
+Prezes	Satya Nadella
+(od 04.02.2014)
+Branza	technologie informacyjne
+Produkty	Microsoft Windows
+Microsoft Office
+Microsoft Dynamics
+Microsoft Visual Studio
+Microsoft Expression
+Microsoft Zune
+Microsoft Outlook
+Microsoft Entourage
+Microsoft Lumia
+Microsoft Mobile
+MSN
+Bing
+Skype
+Nokia
+Xbox
+Xbox 360
+Xbox One
+Xbox One S
+Xbox One X
+Windows Internet Explorer
+Edge
+Windows Live
+Windows Mobile
+Windows Mail
+Windows Server
+Windows Media Player
+Windows Movie
+Windows Phone
+Office 365
+Microsoft Surface
+Zatrudnienie	128 076 (2014)[1]
+Przychody	86,83 mld USD (2014)[2]
+Zysk operacyjny	27,76 mld USD (2014)[2]
+Zysk netto	22,07 mld USD (2014)[2]
+Aktywa	172,38 mld USD (2014)[2]
+Kapital zakladowy	89,78 mld USD (2014)[2]
+Symbol akcji	NASDAQ: MSFT
+Commons	Multimedia w Wikimedia Commons
+Strona internetowa
+
+Logo przy wejsciu do glównej siedziby Microsoftu; obecnie obejmuje ona ponad 8 milionów stóp kwadratowych (ok. 750 000 m²) i ponad 30 000 pracowników[3]
+Microsoft ['ma?k?o??s??ft] – jedno z najwiekszych na swiecie przedsiebiorstw z branzy technologii informacyjnych[4]. Najbardziej znane jako producent systemów operacyjnych MS-DOS, Microsoft Windows i oprogramowania biurowego Microsoft Office. Spólka publiczna z siedziba w Redmond w stanie Waszyngton. Zalozona w 1975 roku przez Billa Gatesa i Paula Allena. W 2012 roku przedsiebiorstwo posiadalo 10 000 patentów. Przecietne wynagrodzenie pracowników to 106 tys. dolarów rocznie[5]. W 2014 roku prezesem przedsiebiorstwa zostal Satya Nadella, który zastapil na tym stanowisku Steve’a Ballmera[6]. Od 2001 roku przedsiebiorstwo produkuje konsole do gier Xbox.
+Spis tresci  [ukryj] 
+1	Historia
+1.1	1975–1985: Poczatki
+1.2	1985–1995: OS/2 i Windows
+1.3	1995–2005: Internet i kwestie prawne
+1.4	Od 2006: Vista i inne przejscia
+1.5	Postepowania antymonopolowe
+1.6	Korupcja w Rumunii
+1.7	Kradziez wlasnosci intelektualnej
+2	Produkty
+2.1	Najbardziej dochodowe
+2.2	Systemy operacyjne i zwiazane z nimi oprogramowanie
+2.3	Programy biurowe
+2.4	Inne oprogramowanie
+2.5	Jezyki programowania
+2.6	Sprzet komputerowy
+2.7	Uslugi medialne
+3	Microsoft w Polsce
+4	Przypisy
+5	Linki zewnetrzne
+Historia[edytuj | edytuj kod]
+1975–1985: Poczatki[edytuj | edytuj kod]
+Przedsiebiorstwo zostalo zalozone w roku 1975 w Albuquerque w stanie Nowy Meksyk przez Billa Gatesa i Paula Allena w celu wyprodukowania i sprzedazy interpretera jezyka BASIC. Pierwsze miedzynarodowe biuro zostalo zalozone 1 listopada 1978 w Japonii. 1 stycznia 1979 siedziba spólki przeniosla sie do Bellevue w Waszyngtonie. Steve Ballmer dolaczyl 11 czerwca 1980, a pózniej Bill Gates zostal prezesem.
+DOS jest pierwszym produktem, który przyniósl spólce prawdziwy sukces. 12 sierpnia 1981 po nieudanych negocjacjach z Digital Research, IBM zlozyl zamówienie w Microsofcie na wersje systemu CP/M do wykorzystania w komputerach IBM PC. Po tym Microsoft nabyl klon CP/M – 86-DOS od Seattle Computer Products i nazwal go PC-DOS. Widzac dominacje na rynku klonów IBM PC Microsoft postanowil rozpoczac agresywny marketing MS-DOS dla klonów IBM PC, dzieki czemu Microsoft z malego przedsiebiorstwa wyrósl na jeden z najwiekszych koncernów w branzy informatycznej[7][8][9].
+1985–1995: OS/2 i Windows[edytuj | edytuj kod]
+W sierpniu 1985 Microsoft i IBM wspólpracowaly nad stworzeniem systemu operacyjnego OS/2[10]. 20 listopada 1985 odbyla sie premiera Windows 1.0 – nakladki graficznej na system MS-DOS.
+W 1989 roku Microsoft wprowadzil jeden ze swoich sztandarowych produktów – pakiet biurowy Microsoft Office. Byl to oddzielny pakiet aplikacji biurowych takich jak Microsoft Word czy Microsoft Excel. 22 maja 1990 Microsoft przedstawil system Windows 3.0. Nowa wersja Windows zawierala uproszczony graficzny interfejs uzytkownika i tryb chroniony kompatybilny z procesorem Intel 80386. W ciagu dwóch tygodni sprzedano 100 000 egzemplarzy[11]. Windows przynosil wiecej zysków niz OS/2, wiec przedsiebiorstwo zdecydowalo przeniesc swoje aplikacje na Windows[12].
+W czasie przejscia z MS-DOS na Microsoft Windows sukces Microsoft Office nie pozwolil znalezc twardego gruntu takim aplikacjom jak WordPerfect i Lotus 1-2-3[13][14]. Ostatecznie Microsoft Office stal sie dominujacym pakietem biurowym na rynku z udzialem znacznie przewyzszajacym konkurencje.
+W 1993 Microsoft przedstawil Windows NT 3.1 z interfejsem takim samym jak Windows 3.1, ale opartym na zupelnie innym jadrze. W 1995 odbyla sie premiera Windows 95. W ciagu czterech dni sprzedano milion egzemplarzy[13]. Przedsiebiorstwo udostepnilo przegladarke Internet Explorer 1 w dodatku Microsoft Plus![15].
+1995–2005: Internet i kwestie prawne[edytuj | edytuj kod]
+26 maja 1995 po „Internet Tidal Wave memo” Billa Gatesa[16], Microsoft postawil sobie cel poszerzenia swojej linii produktów do sieci komputerowych i sieci WWW. 24 sierpnia 1995 przedsiebiorstwo uruchomilo MSN, jako bezposredniego konkurenta AOL. W 1997 Microsoft wydal Internet Explorer 4 zarówno dla Windows i Mac OS. W pazdzierniku Departament Sprawiedliwosci zlozyl wniosek w Federalnym Sadzie Rejonowym, w którym stwierdzil, ze Microsoft zlamal przepisy porozumienia podpisanego w 1994 i zwrócil sie do sadu o powstrzymanie integracji Internet Explorera w systemie Windows.
+W 1998 Bill Gates mianowal Steve’a Ballmera na prezesa, a sam zachowal funkcje przewodniczacego i dyrektora generalnego. 25 czerwca 1998 miala miejsce premiera systemu Windows 98. 3 kwietnia 2000 zostal wydany wyrok przeciwko Microsoft[17] za praktyki monopolistyczne[18].
+W 2001 roku zostal wydany Windows XP. Byl to pierwszy system Windows oparty na jadrze NT zarówno dla uzytkowników domowych, jak i biznesowych. XP posiadal pierwsze zmiany interfejsu od czasu Windows 95. Wraz z premiera konsoli Xbox Microsoft wszedl na rynek konsoli, zdominowany przez Sony i Nintendo. W latach 2001–2002 Microsoft kupil producentów oprogramowania ERP tworzac caly nowy dzial Microsoft Dynamics. W marcu 2004 Unia Europejska wszczela postepowanie przeciwko Microsoft za wykorzystywanie monopolistycznej pozycji systemu Windows. W rezultacie Microsoft wydal nowe wersje Windows XP – Windows XP Home Edition N i Windows XP Professional N i dostal grzywne w wysokosci 497 mln €[19].
+Od 2006: Vista i inne przejscia[edytuj | edytuj kod]
+W styczniu 2007 miala miejsce premiera Windows Vista i Office 2007. Office 2007 zawieral zmiany w interfejsie poprzez wprowadzenie wstazek.
+
+	Zobacz wiadomosc w serwisie Wikinews pt. propozycji zakupu Yahoo! przez Microsoft
+1 lutego 2008 Microsoft zlozyl oferte kupna Yahoo! za 44,6 mld dolarów[20]. Yahoo! odrzucilo oferte 10 lutego, a Microsoft 3 maja wycofal oferte[21].
+
+	Zobacz wiadomosc w serwisie Wikinews pt. kary dla Microsoftu
+21 lutego 2008 przedsiebiorstwo oglosilo, ze bedzie udostepniac wiecej informacji o swoich produktach, w celu ulatwienia programistom tworzenia oprogramowania wspólpracujacego z produktami Microsoft[22]. Jednak Unia Europejska nadal wykazywala swoje niezadowolenie i 27 lutego 2008 zwiekszyla grzywne o dodatkowe 899 mln €, najwieksza grzywne w historii UE[23].
+26 czerwca 2008 koncern oglosil, ze kupi Mobicomp – portugalskiego operatora telefonów komórkowych[24]. W sprawozdaniu finansowym za 2008 r. Microsoft stwierdzil, ze oprogramowanie open source stanowi zagrozenie dla przychodów przedsiebiorstwa[25].
+23 pazdziernika 2008 roku Microsoft zostal pozwany przez chinskiego prawnika za to iz – zdaniem pozywajacego – witryna Microsoft Update – zbiera z aktualizowanego komputera informacje na temat uzytkownika[26].
+22 stycznia 2009 Microsoft oglosil zwolnienie 5000 pracowników w ciagu 18 miesiecy, z czego 1400 pracowników od razu stracilo prace[27].
+22 pazdziernika 2009 Microsoft wprowadzil na rynek system Windows 7.
+26 pazdziernika 2012 w Nowym Jorku miala miejsce oficjalna premiera systemu Windows 8. Ta wersja systemu wprowadzila nowy interfejs – Modern UI.
+We wrzesniu 2013 ogloszono zawarcie transakcji, w ramach której Microsoft przejmie od Nokii dzial urzadzen i uslug za 5,44 mld euro[28].
+20 wrzesnia 2013 ogloszono odejscie Steve’a Ballmera z Microsoftu, co nastapilo 27 wrzesnia 2013. W dniu 4 lutego 2014 r. nowym prezesem przedsiebiorstwa zostal Satya Nadella.
+W czerwcu 2016 ogloszono, iz za 26,2 miliarda dolarów Microsoft dokonuje zakupu LinkedIn – najwiekszego na swiecie serwisu spolecznosciowego dotyczacego pracy[29].
+Postepowania antymonopolowe[edytuj | edytuj kod]
+Na przelomie XX i XXI wieku przedsiebiorstwo kilkakrotnie bylo oskarzane przed sadem o praktyki monopolistyczne. W 1993 r. proces przeciwko Microsoftowi wytoczyl amerykanski Departament Sprawiedliwosci, argumentujac, ze koncern naduzywa swojej pozycji monopolistycznej poprzez naciski na sprzedawców komputerów klasy PC, aby nie sprzedawali ich bez dolaczonego systemu operacyjnego MS Windows.
+Wprawdzie w 1994 r. zawarto ugode, lecz proces zostal wznowiony pod koniec 1997 r. Tym razem zarzucano spólce praktyke monopolistyczna polegajaca na dolaczaniu do kazdej kopii systemu Windows od Windows 95 poczawszy przegladarki Internet Explorer, którego nie mozna calkowicie odinstalowac bez utraty funkcjonalnosci systemu operacyjnego. W kwietniu 2000 sad nakazal podzial przedsiebiorstwa na czesc zajmujaca sie wylacznie systemami operacyjnymi i czesc majaca sie zajmowac wszystkim oprócz systemów operacyjnych. Koncern uniknal podzialu dzieki wyrokowi sadu apelacyjnego.
+Postepowania o praktyki monopolistyczne wszczeto takze w Europie. 24 marca 2004 r., po piecioletnim procesie Komisja Europejska orzekla, ze Microsoft naduzywa pozycji dominujacej na rynku oprogramowania. Kraje czlonkowskie Unii zatwierdzily projekt decyzji 9 dni wczesniej.
+Postepowanie rozpoczeto gdy konkurencyjne przedsiebiorstwo Sun Microsystems zaskarzylo Microsoft za odmowe dostepu do szczególów zasad obslugi interfejsu systemów operacyjnych Microsoftu zwiazanej z serwerami (zagadnienie tzw. licencji przymusowej). W 2000 r. zakres postepowania zostal rozszerzony o kwestie zbadania skutków zintegrowania odtwarzacza plików multimedialnych Windows Media Player z systemem operacyjnym Windows.
+Komisja Europejska nalozyla na koncern rekordowo wysoka grzywne – 497 mln euro[30], nakazujac ponadto udostepnienie wypracowanych przez przedsiebiorstwo technologii i posiadanych praw wlasnosci intelektualnej oraz zmiane dotychczasowej strategii, polegajacej na wlaczaniu do systemu operacyjnego Windows aplikacji, na które istnieje szczególnie duze zapotrzebowanie konsumentów. Na poczatku czerwca 2004 roku Microsoft odwolal sie od decyzji Komisji do unijnego Sadu Pierwszej Instancji. Koncern kwestionuje przede wszystkim nakaz dzielenia sie wiedza z konkurentami, który, jego zdaniem, zagraza podstawom rozwoju branzy informatycznej.
+Korupcja w Rumunii[edytuj | edytuj kod]
+W latach 2004–2012 w Rumunii kupiono licencje na oprogramowanie Microsoft(dla administracji panstwowej) za 228 milionów USD. Wiecej niz 20 milionów euro zaplacono w lapówkach. W marcu 2016 roku sad skazal 4 osoby na kare pozbawienia wolnosci i zajecia srodków pienieznych. Sad apelacyjny potwierdzil wine i podwyzszyl wymiar kary[31][32].
+Kradziez wlasnosci intelektualnej[edytuj | edytuj kod]
+W 2011 roku Sad Najwyzszy USA odrzucil odwolanie Microsoftu od wyroku sadu nizszej instancji w sprawie jednej z funkcji, wykorzystanej przez Microsoft w jego edytorze tekstów Word. Microsoft bezprawnie korzystal z patentu przedsiebiorstwa i4i (z Kanady) i musi zaplacic temu przedsiebiorstwu 290 milionów dolarów[33].
+Microsoft zaplacil przedsiebiorstwu VirnetX 200 milionów w ramach ugody, w sprawie o naruszenie patentów dotyczacych VPN. Patenty mialy byc wykorzystywane bez licencji w Windows XP, Vista, Windows Server 2003, Live Communications Server, Windows Messenger, Office Communicator oraz róznych wersji Office[34].
+Produkty[edytuj | edytuj kod]
+Najbardziej dochodowe[edytuj | edytuj kod]
+Jednym z najbardziej dochodowych produktów przedsiebiorstwa Microsoft jest ich system operacyjny Windows, obecnie najpopularniejsza jest wersja Windows 7 oraz najnowsza Windows 10.
+Znacznie mniejsze przychody przynosi Microsoftowi autorski system operacyjny dla telefonów. Szacunkowo jest to 2 USD za kazde sprzedane urzadzenie z Windows Phone. Wedlug samego przedsiebiorstwa 20 procent smartfonów sprzedawanych na terenie Stanów Zjednoczonych oraz inne smartfony z reszty swiata objete sa 56 umowami licencyjnymi[35]. Wynika to miedzy innymi z prawa patentowego w USA, odmiennego od europejskiego, z bardziej liberalnymi zasadami patentowania – miedzy innymi przedsiebiorstwo Apple ma patent na przewijanie stron[36].
+Innym produktem jest system plikowy – exFAT, sprzedawany miedzy innymi przedsiebiorstwom: Sharp, Nikon, BMW i Volkswagen[35].
+Systemy operacyjne i zwiazane z nimi oprogramowanie[edytuj | edytuj kod]
+Podstawowym produktem Microsoftu sa systemy operacyjne dla serwerów i komputerów osobistych o nazwie Windows. Szacuje sie, ze w 2004 od 90 do 98% komputerów osobistych dzialalo pod kontrola Windows. Najnowszymi systemami operacyjnymi Microsoft sa Windows 10 dla zwyklych zastosowan i system serwerowy Windows Server 2016.
+Czesc produktów Microsoftu jest rozprowadzana z systemem operacyjnym Windows, z którym jest scisle zwiazana (usuniecie niektórych z tych programów moze powodowac klopoty z uzytkowaniem systemu). Sa to:
+przegladarka internetowa Internet Explorer,
+klient poczty Windows Mail (dawniej Outlook Express), zastapiony obecnie przez Windows Live Mail i zwykle nie dolaczany do systemu,
+odtwarzacz multimedialny Windows Media Player,
+program do tworzenia filmów Windows Movie Maker, zastapiony obecnie przez Windows Live Movie Maker i nie dolaczany zwykle do systemu,
+program do tworzenia DVD Microsoft DVD Maker,
+edytor grafiki Paint,
+edytor tekstu WordPad i mniej zaawansowany Notatnik.
+Programy biurowe[edytuj | edytuj kod]
+ Osobny artykul: Microsoft Office.
+Drugim filarem przychodów przedsiebiorstwa jest oprogramowanie wspierajace prace biurowe, w tym przede wszystkim pakiet biurowy Office. Oprócz systemów Windows wiele aplikacji wchodzacych w sklad pakietu jest dostepnych takze dla komputerów Macintosh przedsiebiorstwa Apple:
+procesor tekstu Microsoft Word,
+arkusz kalkulacyjny Microsoft Excel,
+system bazodanowy z narzedziami do tworzenia raportów i aplikacji obslugi Microsoft Access,
+oprogramowanie do tworzenia prezentacji Microsoft PowerPoint,
+aplikacja do tworzenia notatek Microsoft OneNote,
+aplikacja do tworzenia publikacji Microsoft Publisher,
+aplikacja do tworzenia stron www Microsoft Expression Web,
+program RPM Microsoft Outlook,
+oprogramowanie biznesowe typu ERP Microsoft Dynamics.
+Najnowszym wydaniem pakietu jest Microsoft Office 2016, a poprzednim wydaniem byl Microsoft Office 2013.
+Inne oprogramowanie[edytuj | edytuj kod]
+Rodzina kompilatorów i narzedzi wspomagajacych budowe oprogramowania Microsoft Visual Studio
+Gry komputerowe, na przyklad:
+Age of Empires / Age of Empires II / Age of Empires III
+Age of Mythology
+Dungeon Siege / Dungeon Siege II
+Fable: The Lost Chapters / Fable II / Fable III
+Halo Combat Evolved / Halo 2 / Halo 3 / Halo 4 / Halo Reach / Halo 5 / Halo: The Master Chief Edition
+Flight Simulator / Microsoft Flight
+Midtown Madness
+Train Simulator
+Rise of Nations
+Minecraft
+Forza Horizon / Forza Horizon 2 / Forza Horizon 3
+Encyklopedie i atlasy (Microsoft Encarta)
+Wspomaganie nawigacji satelitarnej GPS – Microsoft Streets and Trips
+Program do tworzenia multimedialnych pokazów ze zdjec PhotoStory
+Komunikator internetowy Skype (zakupiony w 2011 roku[37])
+Jezyki programowania[edytuj | edytuj kod]
+Microsoft wypromowal Basic, dystrybuujac interpreter tego jezyka wraz z systemem MS-DOS (QBasic, GW BASIC), a nastepnie tworzac IDE Visual Basic, szczególnie uzyteczne do pisania niewielkich programów dla pakietu MS Office.
+Przedsiebiorstwo widzac rosnaca popularnosc technologii obiektowych zdecydowala sie stworzyc wlasna obiektowa (obiektowo-zorientowana) platforme o nazwie .NET z podstawowym jezykiem C#; oraz nowymi wersjami: C++/CLI, Visual Basic .NET; z jezykiem przypominajacym Jave o nazwie J# oraz kilkoma innymi. Poza tym osoby i przedsiebiorstwa trzecie stworzyly kilkadziesiat jezyków generujacych kod posredni (CLI) dla .NET[38]. Twórcy programów sa dodatkowo zachecani do platformy .NET poprzez darmowe srodowiska programistyczne z serii Visual Studio Express Edition.
+Sprzet komputerowy[edytuj | edytuj kod]
+
+Logo Microsoftu (oddzial w Niemczech)
+Microsoft produkuje równiez sprzet komputerowy, na przyklad tablety (aktualnie z serii Surface), konsole Xbox oraz jej nastepców: Xbox 360 Xbox One oraz nadchodzacy najblizszym czasie Xbox One X klawiatury, myszy itp. Po przejeciu dzialu urzadzen Nokii jest równiez producentem m.in. smartfonów z serii Microsoft Lumia.
+Uslugi medialne[edytuj | edytuj kod]
+W 1995 roku Microsoft uruchomil usluge internetowa MSN (Microsoft Network) jako bezposrednia konkurencje dla AOL.
+W 1996 wraz z NBC stworzyl telewizyjny kanal MSNBC, nadajacy wiadomosci przez 24 godziny, polaczony z internetowym serwisem informacyjnym.
+W 1997 roku Microsoft kupil Hotmail – pierwszy z serwisów oferujacych dostep do kont pocztowych przy uzyciu przegladarki internetowej.
+W 1999 powstal komunikator internetowy MSN Messenger, jako konkurencja dla AOL Instant Messengera (AIM).
+W 2011 roku Microsoft przejal Skype.
+W 2013 roku Windows Live Messenger zostal zastapiony zakupionym wczesniej Skype w wielu krajach swiata. Usluga ta natomiast byla dostepna w Chinach do 31 pazdziernika 2014.
+22 listopada 2013 roku do sprzedazy w wybranych 13 krajach (Australii, Austrii, Brazylii, Kanadzie, Francji, Niemczech, Irlandii, Wloszech, Meksyku, Nowej Zelandii, Hiszpanii, Wielkiej Brytanii i w Stanach Zjednoczonych) zostala wprowadzona Konsola Microsoft Xbox One. Konsola jest okreslana mianem systemu rozrywki zawierajacego wszystkie domowe urzadzenia medialne w jednym i bedaca konkurencja dla takich platform jak np. Apple TV czy Google TV.
+W czerwcu 2016 ogloszono, ze Microsoft dokonuje zakupu LinkedIn.
+Microsoft w Polsce[edytuj | edytuj kod]
+Microsoft Polska Spólka z o.o.
+Ilustracja
+Budynek Microsoftu (oddzial w Polsce)
+Panstwo	 Polska
+Siedziba	Warszawa
+Adres	02-222 Warszawa,
+Al. Jerozolimskie 195A
+Forma prawna	spólka z o.o.
+Nr KRS	0000056838
+Polski oddzial Microsoftu zostal zarejestrowany w 1992 jako Microsoft spólka z o.o.[39] W pierwszych miesiacach istnienia polskiego oddzialu przedsiebiorstwo sprzedawalo glównie system operacyjny MS-DOS[40]. Pierwszym polskojezycznym produktem byl FoxPro 2.5[40]. Pierwsza spolonizowana wersja systemu Windows byl Windows 3.1, który trafil do sprzedazy w marcu 1993[41].
+Z poczatku na polskojezyczne wersje programów Microsoftu trzeba bylo czekac od 4 do 6 miesiecy od ogólnoswiatowej premiery[41]. Obecnie wraz z premiera nowej wersji ukazuje sie jej polskojezyczna wersja[41].
+Poza biurem w Warszawie przedsiebiorstwo prowadzi Centra Innowacji Microsoft w Lodzi i Poznaniu, a takze biuro we Wroclawiu zajmujace sie rozwojem wyszukiwarki Bing[42]. Microsoft wspólpracuje z osmioma tysiacami partnerów i dwudziestoma tysiacami inzynierów w calej Polsce[43].
+Od 12 czerwca 2012 roku, dziala portal MetroMSN bedacy polska wersja MSN, powstajacy przy wspólpracy z koncernem Agora SA[44].

@@ -1,0 +1,111 @@
+Fonctions représentables par des réseaux de neurones multicouches acycliques[modifier | modifier le code]
+Fonctions booléennes : toutes les fonctions booléennes sont représentables par un réseau à deux couches. Au pire des cas, le nombre de neurones de la couche cachée augmente de manière exponentielle en fonction du nombre d'entrées.
+Fonctions continues : toutes les fonctions continues bornées sont représentables, avec une précision arbitraire, par un réseau à deux couches (Cybenko, 1989). Ce théorème s'applique au réseau dont les neurones utilisent la sigmoïde dans la couche cachée et des neurones linéaires (sans seuil) dans la couche de sortie. Le nombre de neurones dans la couche cachée dépend de la fonction à approximer.
+Fonctions arbitraires : n'importe quelle fonction peut être approximée avec une précision arbitraire grâce à un réseau à trois couches (théorème de Cybenko, 1988).
+Algorithme[modifier | modifier le code]
+La large majorité des réseaux de neurones possède un algorithme « d’entraînement » qui consiste à modifier les poids synaptiques en fonction d’un jeu de données présentées en entrée du réseau. Le but de cet entraînement est de permettre au réseau de neurones d'« apprendre » à partir des exemples. Si l’entraînement est correctement réalisé, le réseau est capable de fournir des réponses en sortie très proches des valeurs d’origines du jeu de données d’entraînement. Mais tout l’intérêt des réseaux de neurones réside dans leur capacité à généraliser à partir du jeu de test. Il est donc possible d'utiliser un réseau de neurones pour réaliser une mémoire ; on parle alors de mémoire neuronale.
+La vision topologique d’un apprentissage correspond à la détermination de l’hypersurface sur {\displaystyle \mathbb {R} ^{n}} \mathbb {R} ^{n} où {\displaystyle \mathbb {R} } \mathbb {R}  est l’ensemble des réels, et {\displaystyle n} n le nombre d’entrées du réseau.
+Apprentissage[modifier | modifier le code]
+Mode supervisé ou non[modifier | modifier le code]
+Un apprentissage est dit supervisé lorsque le réseau est forcé à converger vers un état final précis, en même temps qu'un motif lui est présenté.
+À l’inverse, lors d’un apprentissage non-supervisé, le réseau est laissé libre de converger vers n’importe quel état final lorsqu'un motif lui est présenté.
+Surapprentissage[modifier | modifier le code]
+Il arrive souvent que les exemples de la base d'apprentissage comportent des valeurs approximatives ou bruitées. Si on oblige le réseau à répondre de façon quasi parfaite relativement à ces exemples, on peut obtenir un réseau qui est biaisé par des valeurs erronées.
+Par exemple, imaginons qu'on présente au réseau des couples {\displaystyle (x_{i},f(x_{i}))} {\displaystyle (x_{i},f(x_{i}))} situés sur une droite d'équation {\displaystyle y=ax+b} y=ax+b, mais bruités de sorte que les points ne soient pas exactement sur la droite. S'il y a un bon apprentissage, le réseau répond {\displaystyle ax+b} {\displaystyle ax+b} pour toute valeur de {\displaystyle x} x présentée. S'il y a surapprentissage, le réseau répond un peu plus que {\displaystyle ax+b} {\displaystyle ax+b} ou un peu moins, car chaque couple {\displaystyle (x_{i},f(x_{i}))} {\displaystyle (x_{i},f(x_{i}))} positionné en dehors de la droite va influencer la décision.
+Pour éviter le surapprentissage, il existe une méthode simple : il suffit de partager la base d'exemples en 2 sous-ensembles. Le premier sert à l'apprentissage et le second sert à l'évaluation de l'apprentissage. Tant que l'erreur obtenue sur le deuxième ensemble diminue, on peut continuer l'apprentissage, sinon on arrête.
+Rétropropagation[modifier | modifier le code]
+La rétropropagation consiste à rétropropager l'erreur commise par un neurone à ses synapses et aux neurones qui y sont reliés. Pour les réseaux de neurones, on utilise habituellement la rétropropagation du gradient de l'erreur, qui consiste à corriger les erreurs selon l'importance des éléments qui ont justement participé à la réalisation de ces erreurs : les poids synaptiques qui contribuent à engendrer une erreur importante se verront modifiés de manière plus significative que les poids qui ont engendré une erreur marginale.
+Élagage[modifier | modifier le code]
+L'élagage (pruning, en anglais) est une méthode qui permet d'éviter le surapprentissage tout en limitant la complexité du modèle. Elle consiste à supprimer des connexions (ou synapses), des entrées ou des neurones du réseau une fois l'apprentissage terminé. En pratique, les éléments qui ont la plus petite influence sur l'erreur de sortie du réseau sont supprimés. Les deux algorithmes d'élagage les plus utilisés sont :
+Optimal brain damage (OBD) de Yann LeCun et al.
+Optimal brain surgeon (OBS) de B. Hassibi et D. G. Stork
+Différents types de réseaux de neurones[modifier | modifier le code]
+L’ensemble des poids des liaisons synaptiques détermine le fonctionnement du réseau de neurones. Les motifs sont présentés à un sous-ensemble du réseau de neurones : la couche d’entrée. Lorsqu’un motif est appliqué à un réseau, celui-ci cherche à atteindre un état stable. Lorsqu’il est atteint, les valeurs d’activation des neurones de sortie constituent le résultat. Les neurones qui ne font ni partie de la couche d’entrée ni de la couche de sortie sont dits neurones cachés.
+Les types de réseau de neurones diffèrent par plusieurs paramètres :
+la topologie des connexions entre les neurones ;
+la fonction d’agrégation utilisée (somme pondérée, distance pseudo-euclidienne…) ;
+la fonction de seuillage utilisée (sigmoïde, échelon, fonction linéaire, fonction de Gauss…) ;
+l’algorithme d’apprentissage (rétropropagation du gradient, cascade correlation) ;
+d’autres paramètres, spécifiques à certains types de réseaux de neurones, tels que la méthode de relaxation pour les réseaux de neurones (réseaux de Hopfield par exemple) qui ne sont pas à propagation simple (perceptron multicouche par exemple).
+De nombreux autres paramètres sont susceptibles d’être mis en œuvre dans le cadre de l’apprentissage de ces réseaux de neurones par exemple :
+la méthode de dégradation des pondérations (weight decay), permettant d’éviter les effets de bord et de neutraliser le surapprentissage.
+Réseaux à apprentissages supervisés[modifier | modifier le code]
+Sans rétropropagation[modifier | modifier le code]
+Perceptron[modifier | modifier le code]
+Article détaillé : Perceptron.
+ADALINE (adaptive linear neuron)[modifier | modifier le code]
+Le réseau ADALINE est proche du modèle perceptron, seule sa fonction d'activation est différente puisqu'il utilise une fonction linéaire. Afin de réduire les parasites reçus en entrée, les réseaux ADALINE utilisent la méthode des moindres carrés.
+Le réseau réalise une somme pondérée de ses valeurs d'entrées et y rajoute une valeur de seuil prédéfinie. La fonction de transfert linéaire est ensuite utilisée pour l'activation du neurone. Lors de l'apprentissage, les coefficients synaptiques des différentes entrées sont modifiées en utilisant la loi de Widrow-Hoff (en). Ces réseaux sont souvent employés en traitement de signaux8, notamment pour la réduction de bruit.
+Machine de Cauchy[modifier | modifier le code]
+Une machine de Cauchy est un réseau de neurones artificiels assez proche dans le fonctionnement d'une machine de Boltzmann. Cependant les lois de probabilités utilisées ne sont pas les mêmes9.
+Non détaillés[modifier | modifier le code]
+Adaptive heuristic critic (AHC)
+Time delay neural network (TDNN)
+Associative reward penalty (ARP)
+Avalanche matched filter (AMF)
+Backpercolation (Perc)
+Artmap
+Adaptive logic network (ALN)
+Cascade correlation (CasCor)
+Extended Kalman filter(EKF)
+Learning vector quantization (LVQ)
+Probabilistic neural network (PNN)
+General regression neural network (GRNN)
+Avec rétropropagation[modifier | modifier le code]
+Réseau Neuronal à Convolution (CNN)
+Perceptron multicouche[modifier | modifier le code]
+Article détaillé : Perceptron multicouche.
+Non détaillés[modifier | modifier le code]
+Brain-State-in-a-Box (BSB)
+Fuzzy cognitive map (FCM)
+Mean field annealing (MFT)
+Recurrent cascade correlation (RCC)
+Backpropagation through time (BPTT)
+Real-time recurrent learning (RTRL)
+Recurrent extended Kalman filter (EKF)
+Réseaux à apprentissage non supervisé[modifier | modifier le code]
+Avec rétropropagation[modifier | modifier le code]
+Carte auto adaptative
+Machine de Boltzmann restreinte (RBM)
+Codage parcimonieux
+Non détaillés[modifier | modifier le code]
+Additive Grossberg (AG)
+Shunting Grossberg (SG)
+Binary adaptive resonance theory (ART1)
+Analog adaptive resonance theory (ART2, ART2a)
+Discrete Hopfield (DH)
+Continuous Hopfield (CH)
+Chaos fractal10,11,12
+Discrete bidirectional associative memory (BAM)
+Temporal associative memory (TAM)
+Adaptive bidirectional associative memory (ABAM)
+Apprentissage compétitif
+Dans ce type d'apprentissage non supervisé, les neurones sont en compétition pour être actifs. Ils sont à sortie binaire et on dit qu'ils sont actifs lorsque leur sortie vaut 1. Alors que dans les autres règles plusieurs sorties de neurones peuvent être actives simultanément, dans le cas de l'apprentissage compétitif, un seul neurone est actif à un instant donné. Chaque neurone de sortie est spécialisé pour « détecter » une suite de formes similaires et devient alors un détecteur de caractéristiques. La fonction d’entrée est dans ce cas, {\displaystyle h=\operatorname {b-dist} (W,X)} {\displaystyle h=\operatorname {b-dist} (W,X)} où {\displaystyle b} b, {\displaystyle W} W et {\displaystyle X} X sont respectivement les vecteurs seuil, poids synaptiques et entrées. Le neurone gagnant est celui pour lequel h est maximum donc si les seuils sont identiques, celui dont les poids sont les plus proches des entrées. Le neurone dont la sortie est maximale sera le vainqueur et sa sortie sera mise à 1 alors que les perdants auront leur sortie mise à 0. Un neurone apprend en déplaçant ses poids vers les valeurs des entrées qui l'activent pour augmenter ses chances de gagner. Si un neurone ne répond pas à une entrée, aucun ajustement de poids n'intervient. Si un neurone gagne, une portion des poids de toutes les entrées est redistribuée vers les poids des entrées actives. L'application de la règle donne les résultats suivants (Grossberg) :
+{\displaystyle Dw_{ij}=lr(x_{j}-w_{ij})} {\displaystyle Dw_{ij}=lr(x_{j}-w_{ij})} si le neurone i gagne,
+{\displaystyle Dw_{ij}=0} {\displaystyle Dw_{ij}=0} si le neurone i perd.
+Cette règle a pour effet de rapprocher le vecteur poids synaptique {\displaystyle w_{ij}} w_{{ij}} de la forme d'entrée {\displaystyle x_{j}} x_{j}.
+Exemple : considérons deux nuages de points du plan que l’on désire séparer en deux classes. {\displaystyle x_{1}} x_{1} et {\displaystyle x_{2}} x_{2} sont les deux entrées, {\displaystyle w_{11}} {\displaystyle w_{11}} et {\displaystyle w_{12}} {\displaystyle w_{12}} sont les poids du neurone 1 que l’on peut considérer comme les coordonnées d’un point ‘poids du neurone 1’ et {\displaystyle w_{21}} {\displaystyle w_{21}} et {\displaystyle w_{22}} {\displaystyle w_{22}} sont les poids du neurone 2. Si les seuils sont nuls, hi sera la distance entre les points à classer et les points poids. La règle précédente tend à diminuer cette distance avec le point échantillon lorsque le neurone gagne. Elle doit donc permettre à chaque point poids de se positionner au milieu d’un nuage. Si on fixe initialement les poids de manière aléatoire, il se peut que l’un des neurones se positionne près des deux nuages et que l’autre se positionne loin de sorte qu’il ne gagne jamais. Ses poids ne pourront jamais évoluer alors que ceux de l’autre neurone vont le positionner au milieu des deux nuages. Le problème de ces neurones que l’on qualifie de morts peut être résolu en jouant sur les seuils. En effet, il suffit d’augmenter le seuil de ces neurones pour qu’ils commencent à gagner.
+Applications : ce type de réseau et la méthode d'apprentissage correspondant peuvent être utilisés en analyse de données afin de mettre en évidence des similitudes entre certaines données.
+Précisions[modifier | modifier le code]
+S’agissant d’un modèle, les réseaux de neurones sont généralement utilisés dans le cadre de simulation logicielle. IMSL et Matlab disposent ainsi de bibliothèques dédiées aux réseaux de neurones. Cependant, il existe quelques implémentations matérielles des modèles les plus simples, comme la puce ZISC.
+Voir aussi[modifier | modifier le code]
+Sur les autres projets Wikimedia :
+Réseaux de neurones, sur Wikiversity
+Algorithme émergent
+Apprentissage automatique
+Apprentissage non supervisé
+Apprentissage supervisé
+Arbre de décision
+Carte auto adaptative
+Connexionnisme
+Gaz neuronal
+Intelligence artificielle
+Machine à état liquide
+Neurone formel
+Réseau bayésien
+Réseau de neurones de Hopfield
+Réseau de neurones récurrents
+Réseau neuronal convolutif
+Sciences cognitives
+Statistique
+Statistique multivariée
