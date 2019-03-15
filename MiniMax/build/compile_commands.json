@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/Visual Studio Code/build",
+  "command": "\"C:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/x86_64-w64-mingw32-g++.exe\"    -g   -o CMakeFiles/a.exe.dir/Main.cpp.obj -c \"D:/Visual Studio Code/Main.cpp\"",
+  "file": "D:/Visual Studio Code/Main.cpp"
+},
+{
+  "directory": "D:/Visual Studio Code/build",
+  "command": "\"C:/Program Files/mingw-w64/x86_64-7.2.0-win32-seh-rt_v5-rev1/mingw64/bin/x86_64-w64-mingw32-g++.exe\"    -g   -o CMakeFiles/a.exe.dir/Game.cpp.obj -c \"D:/Visual Studio Code/Game.cpp\"",
+  "file": "D:/Visual Studio Code/Game.cpp"
+}
+]

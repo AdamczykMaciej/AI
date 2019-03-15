@@ -1,0 +1,9 @@
+D:/Visual Studio Code/CMakeFiles/NightlyMemoryCheck.dir
+D:/Visual Studio Code/CMakeFiles/Experimental.dir
+D:/Visual Studio Code/CMakeFiles/a.exe.dir
+D:/Visual Studio Code/CMakeFiles/Continuous.dir
+D:/Visual Studio Code/CMakeFiles/Nightly.dir
+D:/Visual Studio Code/CMakeFiles/PACKAGE.dir
+D:/Visual Studio Code/CMakeFiles/RUN_TESTS.dir
+D:/Visual Studio Code/CMakeFiles/ALL_BUILD.dir
+D:/Visual Studio Code/CMakeFiles/ZERO_CHECK.dir
